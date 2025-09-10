@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-gradient-to-br from-slate-50 to-blue-50 min-h-screen;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-xl rounded-2xl;
+  }
+  
+  .gradient-border {
+    @apply border-transparent bg-gradient-to-r from-primary-500 to-accent-500 bg-clip-border;
+  }
+  
+  .metric-card {
+    @apply glass-card p-6 hover:bg-white/80 transition-all duration-300 hover:scale-105 hover:shadow-2xl;
+  }
+  
+  .chart-container {
+    @apply glass-card p-8 hover:bg-white/80 transition-all duration-300;
+  }
+}
