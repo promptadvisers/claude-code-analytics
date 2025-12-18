@@ -99,203 +99,1903 @@ Sale_ID,Date,Units_Sold,Price_Per_Unit,Revenue,Region,Sales_Channel
 98,2025-03-17,1,149,149,Europe,Event Booth
 99,2025-11-09,3,229,687,South America,Retail Partner
 100,2025-12-23,13,229,2977,South America,Retail Partner
-101,2025-10-15,4,179,716,South America,Retail Partner
-102,2025-11-06,1,199,199,Asia,Direct Sales
-103,2025-01-06,18,149,2682,Asia,Event Booth
-104,2025-07-12,17,179,3043,Asia,Retail Partner
-105,2025-07-13,19,149,2831,Europe,Direct Sales
-106,2025-10-31,16,229,3664,North America,Event Booth
-107,2025-03-18,19,179,3401,North America,Online Store
-108,2025-05-06,6,149,894,Europe,Direct Sales
-109,2025-05-26,9,149,1341,Asia,Retail Partner
-110,2025-04-28,20,179,3580,Africa,Retail Partner
-111,2025-04-26,1,179,179,South America,Event Booth
-112,2025-11-13,2,149,298,South America,Online Store
-113,2025-08-20,7,149,1043,South America,Event Booth
-114,2025-02-16,9,229,2061,South America,Event Booth
-115,2025-10-02,8,229,1832,North America,Online Store
-116,2025-02-25,4,199,796,Europe,Direct Sales
-117,2025-04-20,19,149,2831,Europe,Event Booth
-118,2025-05-18,14,199,2786,Africa,Direct Sales
-119,2025-03-12,18,229,4122,Europe,Direct Sales
-120,2025-03-18,5,179,895,North America,Direct Sales
-121,2025-01-06,1,149,149,North America,Direct Sales
-122,2025-08-14,11,199,2189,Africa,Online Store
-123,2025-03-01,13,179,2327,Europe,Retail Partner
-124,2025-08-24,14,229,3206,North America,Online Store
-125,2025-11-20,8,179,1432,South America,Event Booth
-126,2025-05-03,11,149,1639,North America,Direct Sales
-127,2025-02-05,2,179,358,North America,Retail Partner
-128,2025-10-15,9,199,1791,South America,Event Booth
-129,2025-08-06,15,179,2685,Asia,Retail Partner
-130,2025-12-16,18,179,3222,South America,Direct Sales
-131,2025-04-19,2,229,458,Africa,Event Booth
-132,2025-12-20,7,149,1043,South America,Direct Sales
-133,2025-01-18,6,229,1374,Africa,Retail Partner
-134,2025-03-21,4,229,916,Africa,Online Store
-135,2025-07-29,18,149,2682,North America,Retail Partner
-136,2025-01-27,15,229,3435,Europe,Online Store
-137,2025-12-10,4,179,716,Africa,Online Store
-138,2025-04-05,14,229,3206,Europe,Retail Partner
-139,2025-01-04,12,179,2148,Europe,Direct Sales
-140,2025-04-05,8,149,1192,South America,Online Store
-141,2025-01-14,10,199,1990,North America,Event Booth
-142,2025-07-12,10,199,1990,Africa,Direct Sales
-143,2025-01-26,2,199,398,Asia,Retail Partner
-144,2025-08-22,11,229,2519,North America,Event Booth
-145,2025-09-07,9,179,1611,Africa,Retail Partner
-146,2025-09-26,15,149,2235,Asia,Event Booth
-147,2025-02-27,20,229,4580,North America,Direct Sales
-148,2025-02-05,7,179,1253,South America,Event Booth
-149,2025-12-19,3,199,597,Asia,Direct Sales
-150,2025-04-10,15,229,3435,South America,Event Booth
-151,2025-01-14,11,229,2519,Africa,Direct Sales
-152,2025-07-27,16,199,3184,North America,Retail Partner
-153,2025-07-09,20,179,3580,North America,Online Store
-154,2025-10-16,1,149,149,South America,Event Booth
-155,2025-06-02,4,179,716,South America,Online Store
-156,2025-02-15,13,179,2327,Africa,Event Booth
-157,2025-11-27,18,149,2682,South America,Event Booth
-158,2025-02-17,11,149,1639,Asia,Direct Sales
-159,2025-10-03,1,179,179,Asia,Event Booth
-160,2025-01-10,4,199,796,Africa,Event Booth
-161,2025-11-07,8,199,1592,North America,Direct Sales
-162,2025-09-22,2,149,298,North America,Direct Sales
-163,2025-04-30,6,149,894,Africa,Event Booth
-164,2025-05-29,7,199,1393,Europe,Online Store
-165,2025-04-08,19,179,3401,Europe,Online Store
-166,2025-01-30,17,229,3893,Africa,Online Store
-167,2025-02-19,14,149,2086,Asia,Online Store
-168,2025-08-27,18,149,2682,Africa,Direct Sales
-169,2025-04-19,20,199,3980,Africa,Event Booth
-170,2025-12-09,6,229,1374,South America,Direct Sales
-171,2025-04-27,8,199,1592,South America,Online Store
-172,2025-05-20,16,229,3664,South America,Online Store
-173,2025-03-05,14,229,3206,Europe,Retail Partner
-174,2025-05-28,10,229,2290,North America,Direct Sales
-175,2025-02-02,6,149,894,Africa,Event Booth
-176,2025-11-28,14,179,2506,Europe,Direct Sales
-177,2025-06-28,7,179,1253,Europe,Direct Sales
-178,2025-07-20,15,179,2685,North America,Event Booth
-179,2025-11-20,14,149,2086,South America,Event Booth
-180,2025-09-10,13,149,1937,Asia,Direct Sales
-181,2025-06-28,8,149,1192,Europe,Retail Partner
-182,2025-01-23,16,199,3184,Africa,Direct Sales
-183,2025-04-25,8,179,1432,Africa,Event Booth
-184,2025-09-24,12,149,1788,Asia,Retail Partner
-185,2025-06-15,17,199,3383,North America,Event Booth
-186,2025-06-23,9,229,2061,Europe,Online Store
-187,2025-09-08,15,149,2235,Asia,Online Store
-188,2025-05-04,7,229,1603,Africa,Event Booth
-189,2025-11-24,7,229,1603,North America,Event Booth
-190,2025-06-10,3,149,447,Europe,Retail Partner
-191,2025-12-10,17,199,3383,Europe,Event Booth
-192,2025-06-06,17,179,3043,South America,Retail Partner
-193,2025-11-12,7,229,1603,Asia,Direct Sales
-194,2025-07-08,12,149,1788,North America,Direct Sales
-195,2025-08-11,8,229,1832,South America,Retail Partner
-196,2025-01-17,3,149,447,South America,Event Booth
-197,2025-09-16,5,179,895,North America,Direct Sales
-198,2025-04-11,3,199,597,South America,Retail Partner
-199,2025-09-23,15,179,2685,North America,Retail Partner
-200,2025-10-06,19,149,2831,Europe,Online Store
-201,2025-04-17,17,179,3043,Africa,Direct Sales
-202,2025-02-04,14,179,2506,South America,Online Store
-203,2025-08-31,13,179,2327,Asia,Direct Sales
-204,2025-06-08,11,149,1639,South America,Direct Sales
-205,2025-02-24,8,179,1432,North America,Direct Sales
-206,2025-07-03,5,179,895,South America,Event Booth
-207,2025-08-16,4,229,916,North America,Online Store
-208,2025-02-15,15,149,2235,South America,Retail Partner
-209,2025-03-27,13,179,2327,South America,Event Booth
-210,2025-10-20,14,199,2786,Asia,Direct Sales
-211,2025-07-02,18,229,4122,Europe,Direct Sales
-212,2025-10-03,4,149,596,Africa,Direct Sales
-213,2025-03-25,20,149,2980,South America,Online Store
-214,2025-05-06,3,229,687,Asia,Direct Sales
-215,2025-11-17,11,149,1639,North America,Retail Partner
-216,2025-12-07,15,199,2985,Africa,Event Booth
-217,2025-01-08,18,199,3582,North America,Retail Partner
-218,2025-12-15,17,229,3893,Asia,Event Booth
-219,2025-04-09,7,149,1043,Asia,Online Store
-220,2025-07-05,10,179,1790,South America,Direct Sales
-221,2025-04-15,15,179,2685,South America,Direct Sales
-222,2025-08-26,20,229,4580,Europe,Online Store
-223,2025-01-06,7,179,1253,Asia,Retail Partner
-224,2025-12-21,9,229,2061,South America,Retail Partner
-225,2025-10-01,12,179,2148,Africa,Retail Partner
-226,2025-12-02,5,229,1145,South America,Retail Partner
-227,2025-10-01,19,179,3401,Europe,Online Store
-228,2025-07-09,19,199,3781,Europe,Retail Partner
-229,2025-03-18,15,229,3435,Asia,Direct Sales
-230,2025-09-09,5,179,895,Africa,Online Store
-231,2025-03-14,2,149,298,Asia,Online Store
-232,2025-10-30,18,179,3222,Africa,Direct Sales
-233,2025-07-12,2,199,398,North America,Online Store
-234,2025-11-08,9,179,1611,Europe,Retail Partner
-235,2025-07-17,10,229,2290,Asia,Direct Sales
-236,2025-11-28,7,149,1043,Europe,Direct Sales
-237,2025-07-06,4,149,596,Europe,Direct Sales
-238,2025-06-03,9,229,2061,Asia,Event Booth
-239,2025-08-08,3,149,447,Asia,Direct Sales
-240,2025-06-20,14,229,3206,Europe,Retail Partner
-241,2025-04-02,2,179,358,South America,Online Store
-242,2025-02-23,15,179,2685,North America,Direct Sales
-243,2025-05-04,19,179,3401,Europe,Direct Sales
-244,2025-06-05,9,199,1791,Europe,Online Store
-245,2025-10-20,10,149,1490,Europe,Event Booth
-246,2025-07-15,13,229,2977,North America,Direct Sales
-247,2025-08-11,11,179,1969,South America,Retail Partner
-248,2025-02-23,18,179,3222,Europe,Retail Partner
-249,2025-11-12,16,229,3664,Europe,Event Booth
-250,2025-07-06,6,149,894,North America,Online Store
-251,2025-10-06,18,199,3582,North America,Event Booth
-252,2025-06-27,18,179,3222,South America,Direct Sales
-253,2025-01-27,17,149,2533,South America,Online Store
-254,2025-06-23,13,229,2977,North America,Online Store
-255,2025-07-16,16,199,3184,Asia,Event Booth
-256,2025-12-10,16,149,2384,Europe,Online Store
-257,2025-06-30,13,149,1937,Asia,Direct Sales
-258,2025-08-14,7,229,1603,Asia,Direct Sales
-259,2025-09-02,10,229,2290,Africa,Direct Sales
-260,2025-01-31,5,229,1145,Asia,Online Store
-261,2025-08-17,9,229,2061,Asia,Online Store
-262,2025-12-13,3,179,537,North America,Direct Sales
-263,2025-08-06,5,149,745,North America,Online Store
-264,2025-07-02,5,179,895,South America,Retail Partner
-265,2025-11-08,2,229,458,Europe,Event Booth
-266,2025-03-18,7,149,1043,Africa,Event Booth
-267,2025-11-21,14,199,2786,Europe,Online Store
-268,2025-03-13,16,179,2864,Europe,Retail Partner
-269,2025-02-10,13,199,2587,Africa,Retail Partner
-270,2025-07-17,18,149,2682,Africa,Online Store
-271,2025-04-09,12,149,1788,Asia,Event Booth
-272,2025-08-19,2,179,358,North America,Direct Sales
-273,2025-10-28,9,179,1611,Asia,Direct Sales
-274,2025-04-21,4,229,916,South America,Direct Sales
-275,2025-02-09,18,149,2682,Europe,Event Booth
-276,2025-07-30,10,199,1990,North America,Direct Sales
-277,2025-08-19,10,149,1490,North America,Online Store
-278,2025-05-29,9,199,1791,Asia,Direct Sales
-279,2025-04-12,8,179,1432,Africa,Retail Partner
-280,2025-02-27,12,199,2388,Africa,Event Booth
-281,2025-02-21,3,179,537,Europe,Event Booth
-282,2025-12-22,1,199,199,Europe,Retail Partner
-283,2025-03-09,11,179,1969,Europe,Event Booth
-284,2025-08-05,8,179,1432,North America,Event Booth
-285,2025-07-01,12,179,2148,South America,Retail Partner
-286,2025-09-23,8,149,1192,Europe,Retail Partner
-287,2025-04-10,5,229,1145,Europe,Event Booth
-288,2025-10-06,7,229,1603,Asia,Online Store
-289,2025-05-19,2,199,398,Europe,Direct Sales
-290,2025-09-16,4,179,716,Africa,Online Store
-291,2025-07-29,1,199,199,South America,Online Store
-292,2025-05-08,12,149,1788,North America,Direct Sales
-293,2025-04-23,10,179,1790,Asia,Retail Partner
-294,2025-08-17,4,149,596,Asia,Online Store
-295,2025-02-14,19,179,3401,Asia,Retail Partner
-296,2025-08-04,4,179,716,Africa,Online Store
-297,2025-02-01,4,179,716,North America,Online Store
-298,2025-06-05,20,199,3980,Asia,Retail Partner
-299,2025-07-13,11,149,1639,Asia,Retail Partner
-300,2025-02-18,4,229,916,Asia,Retail Partner
+101,2025-09-15,14,179,2506,Africa,Event Booth
+102,2025-05-12,1,149,149,Europe,Direct Sales
+103,2025-02-21,6,179,1074,Africa,Direct Sales
+104,2025-06-20,12,199,2388,South America,Retail Partner
+105,2025-03-09,20,199,3980,Europe,Retail Partner
+106,2025-03-17,8,229,1832,Asia,Online Store
+107,2025-04-19,11,149,1639,North America,Retail Partner
+108,2025-01-19,3,149,447,North America,Retail Partner
+109,2025-03-12,8,199,1592,North America,Online Store
+110,2025-01-11,9,179,1611,North America,Retail Partner
+111,2025-09-07,3,199,597,South America,Event Booth
+112,2025-01-06,1,179,179,Africa,Direct Sales
+113,2025-04-28,14,229,3206,North America,Event Booth
+114,2025-06-03,6,199,1194,North America,Online Store
+115,2025-01-22,14,179,2506,South America,Direct Sales
+116,2025-08-16,1,199,199,Africa,Online Store
+117,2025-12-08,5,199,995,Asia,Retail Partner
+118,2025-06-25,17,199,3383,Africa,Online Store
+119,2025-11-27,18,149,2682,Asia,Online Store
+120,2025-11-24,5,179,895,South America,Direct Sales
+121,2025-08-12,9,179,1611,Africa,Event Booth
+122,2025-11-25,8,199,1592,South America,Direct Sales
+123,2025-07-27,8,179,1432,Africa,Online Store
+124,2025-12-01,8,199,1592,South America,Online Store
+125,2025-05-28,13,229,2977,Africa,Retail Partner
+126,2025-03-08,15,199,2985,Asia,Retail Partner
+127,2025-09-28,4,179,716,Europe,Direct Sales
+128,2025-10-21,2,199,398,North America,Direct Sales
+129,2025-03-05,2,149,298,Asia,Direct Sales
+130,2025-10-10,12,179,2148,Europe,Online Store
+131,2025-08-03,4,149,596,South America,Online Store
+132,2025-12-18,9,229,2061,Asia,Retail Partner
+133,2025-11-16,10,179,1790,North America,Retail Partner
+134,2025-07-13,20,199,3980,Asia,Online Store
+135,2025-03-30,13,229,2977,North America,Event Booth
+136,2025-11-03,20,229,4580,North America,Event Booth
+137,2025-12-15,15,179,2685,South America,Direct Sales
+138,2025-11-14,20,229,4580,Africa,Event Booth
+139,2025-10-06,16,149,2384,Asia,Retail Partner
+140,2025-02-13,13,179,2327,Africa,Event Booth
+141,2025-11-23,16,179,2864,North America,Direct Sales
+142,2025-12-07,1,179,179,Europe,Event Booth
+143,2025-08-10,19,179,3401,Asia,Event Booth
+144,2025-06-19,1,199,199,North America,Event Booth
+145,2025-06-16,8,149,1192,Europe,Online Store
+146,2025-10-06,1,179,179,Asia,Online Store
+147,2025-12-12,13,149,1937,South America,Event Booth
+148,2025-03-29,9,229,2061,Africa,Direct Sales
+149,2025-01-24,1,229,229,Europe,Retail Partner
+150,2025-11-27,10,179,1790,Europe,Event Booth
+151,2025-03-22,20,229,4580,South America,Event Booth
+152,2025-10-03,11,179,1969,North America,Retail Partner
+153,2025-07-23,13,229,2977,North America,Online Store
+154,2025-03-12,3,149,447,Asia,Retail Partner
+155,2025-11-30,6,199,1194,Europe,Online Store
+156,2025-06-11,12,229,2748,South America,Retail Partner
+157,2025-05-07,2,199,398,Europe,Event Booth
+158,2025-12-04,9,149,1341,South America,Event Booth
+159,2025-11-07,9,199,1791,North America,Retail Partner
+160,2025-12-30,17,229,3893,South America,Direct Sales
+161,2025-07-02,6,199,1194,North America,Retail Partner
+162,2025-10-17,4,229,916,North America,Direct Sales
+163,2025-01-27,1,149,149,South America,Event Booth
+164,2025-11-11,6,179,1074,South America,Retail Partner
+165,2025-04-24,10,229,2290,Asia,Online Store
+166,2025-10-23,12,149,1788,Europe,Retail Partner
+167,2025-03-23,10,199,1990,North America,Direct Sales
+168,2025-03-04,13,179,2327,South America,Direct Sales
+169,2025-11-19,12,199,2388,Africa,Online Store
+170,2025-09-11,11,179,1969,South America,Online Store
+171,2025-09-05,19,199,3781,North America,Direct Sales
+172,2025-02-03,10,199,1990,Africa,Direct Sales
+173,2025-08-02,10,199,1990,Asia,Direct Sales
+174,2025-06-28,11,149,1639,North America,Retail Partner
+175,2025-06-23,10,199,1990,South America,Online Store
+176,2025-09-18,4,229,916,Africa,Online Store
+177,2025-12-08,5,179,895,Europe,Event Booth
+178,2025-11-25,18,199,3582,Asia,Retail Partner
+179,2025-04-21,7,149,1043,Europe,Direct Sales
+180,2025-11-01,10,229,2290,Africa,Direct Sales
+181,2025-09-08,15,179,2685,Asia,Event Booth
+182,2025-08-30,5,229,1145,North America,Direct Sales
+183,2025-07-02,3,199,597,Asia,Direct Sales
+184,2025-02-13,6,199,1194,North America,Event Booth
+185,2025-10-08,8,199,1592,Europe,Retail Partner
+186,2025-02-26,3,229,687,South America,Retail Partner
+187,2025-07-22,15,179,2685,Europe,Direct Sales
+188,2025-03-16,1,199,199,Africa,Retail Partner
+189,2025-02-03,10,179,1790,North America,Online Store
+190,2025-05-17,18,149,2682,Europe,Retail Partner
+191,2025-08-01,4,179,716,South America,Direct Sales
+192,2025-02-13,12,179,2148,Africa,Direct Sales
+193,2025-02-27,17,229,3893,Asia,Direct Sales
+194,2025-11-07,9,149,1341,Africa,Online Store
+195,2025-05-20,17,179,3043,North America,Direct Sales
+196,2025-11-29,4,199,796,North America,Event Booth
+197,2025-03-06,12,149,1788,South America,Online Store
+198,2025-07-12,18,199,3582,North America,Retail Partner
+199,2025-07-27,1,199,199,North America,Direct Sales
+200,2025-01-23,5,179,895,Africa,Direct Sales
+201,2025-12-09,16,179,2864,South America,Event Booth
+202,2025-01-04,10,149,1490,Europe,Retail Partner
+203,2025-10-31,3,149,447,North America,Retail Partner
+204,2025-12-13,10,229,2290,Europe,Direct Sales
+205,2025-12-26,15,149,2235,Asia,Event Booth
+206,2025-01-29,14,229,3206,South America,Retail Partner
+207,2025-01-17,17,229,3893,Africa,Direct Sales
+208,2025-10-23,16,229,3664,Asia,Retail Partner
+209,2025-08-06,10,149,1490,Asia,Event Booth
+210,2025-04-11,15,179,2685,South America,Direct Sales
+211,2025-10-07,13,149,1937,North America,Online Store
+212,2025-03-11,7,229,1603,South America,Direct Sales
+213,2025-01-26,18,199,3582,North America,Direct Sales
+214,2025-03-08,18,199,3582,Africa,Direct Sales
+215,2025-02-02,4,229,916,Asia,Retail Partner
+216,2025-04-07,18,229,4122,Europe,Event Booth
+217,2025-11-13,8,229,1832,Europe,Direct Sales
+218,2025-08-26,11,199,2189,Asia,Retail Partner
+219,2025-03-19,18,229,4122,Asia,Retail Partner
+220,2025-11-01,12,149,1788,Europe,Retail Partner
+221,2025-03-07,9,149,1341,South America,Event Booth
+222,2025-12-12,7,149,1043,South America,Online Store
+223,2025-04-26,10,179,1790,North America,Retail Partner
+224,2025-09-13,12,199,2388,North America,Retail Partner
+225,2025-09-17,14,229,3206,Europe,Event Booth
+226,2025-12-19,13,179,2327,North America,Direct Sales
+227,2025-10-09,8,229,1832,Africa,Direct Sales
+228,2025-04-14,17,149,2533,Africa,Online Store
+229,2025-05-12,19,199,3781,Europe,Online Store
+230,2025-03-27,4,149,596,Africa,Retail Partner
+231,2025-05-20,20,149,2980,Europe,Retail Partner
+232,2025-01-19,4,199,796,North America,Event Booth
+233,2025-04-16,4,149,596,Africa,Event Booth
+234,2025-03-01,6,149,894,North America,Event Booth
+235,2025-06-11,13,229,2977,North America,Online Store
+236,2025-01-01,9,199,1791,South America,Online Store
+237,2025-04-14,4,229,916,South America,Event Booth
+238,2025-09-02,20,149,2980,Asia,Retail Partner
+239,2025-12-22,4,149,596,Africa,Retail Partner
+240,2025-02-03,20,179,3580,Europe,Event Booth
+241,2025-03-26,4,179,716,Asia,Event Booth
+242,2025-08-25,13,199,2587,Africa,Direct Sales
+243,2025-06-02,15,199,2985,Asia,Event Booth
+244,2025-09-04,9,229,2061,Asia,Direct Sales
+245,2025-05-28,17,199,3383,Europe,Direct Sales
+246,2025-05-28,15,229,3435,Asia,Direct Sales
+247,2025-09-08,3,149,447,South America,Retail Partner
+248,2025-12-18,20,179,3580,South America,Retail Partner
+249,2025-08-21,17,229,3893,Europe,Online Store
+250,2025-10-16,12,229,2748,Europe,Retail Partner
+251,2025-03-16,6,179,1074,Europe,Event Booth
+252,2025-03-28,6,229,1374,North America,Direct Sales
+253,2025-01-07,7,229,1603,South America,Direct Sales
+254,2025-07-16,13,199,2587,Europe,Direct Sales
+255,2025-01-06,13,199,2587,North America,Event Booth
+256,2025-03-21,18,199,3582,North America,Direct Sales
+257,2025-10-14,12,179,2148,South America,Online Store
+258,2025-04-26,13,229,2977,Africa,Event Booth
+259,2025-01-09,5,149,745,Africa,Event Booth
+260,2025-12-28,1,149,149,Asia,Event Booth
+261,2025-09-13,8,179,1432,North America,Retail Partner
+262,2025-02-08,2,179,358,North America,Online Store
+263,2025-06-23,14,179,2506,South America,Event Booth
+264,2025-08-10,7,179,1253,North America,Retail Partner
+265,2025-05-04,3,199,597,Europe,Online Store
+266,2025-02-12,10,229,2290,Asia,Direct Sales
+267,2025-10-27,18,149,2682,Europe,Retail Partner
+268,2025-06-01,5,149,745,Africa,Retail Partner
+269,2025-10-16,3,149,447,Europe,Event Booth
+270,2025-03-30,3,179,537,Europe,Online Store
+271,2025-05-09,3,149,447,South America,Event Booth
+272,2025-12-29,2,179,358,Africa,Event Booth
+273,2025-01-03,12,149,1788,Asia,Retail Partner
+274,2025-10-18,7,199,1393,Europe,Direct Sales
+275,2025-02-10,14,229,3206,Europe,Retail Partner
+276,2025-05-09,20,179,3580,Asia,Event Booth
+277,2025-04-18,16,229,3664,Europe,Direct Sales
+278,2025-10-17,3,199,597,Africa,Direct Sales
+279,2025-06-29,2,149,298,North America,Retail Partner
+280,2025-06-10,6,229,1374,North America,Direct Sales
+281,2025-10-13,7,229,1603,North America,Online Store
+282,2025-03-22,15,199,2985,South America,Direct Sales
+283,2025-08-13,2,179,358,Africa,Online Store
+284,2025-02-04,13,179,2327,South America,Direct Sales
+285,2025-03-21,14,199,2786,Europe,Retail Partner
+286,2025-10-25,13,179,2327,South America,Retail Partner
+287,2025-08-26,8,229,1832,Europe,Direct Sales
+288,2025-04-01,2,199,398,Africa,Retail Partner
+289,2025-04-05,2,229,458,Asia,Retail Partner
+290,2025-12-20,15,199,2985,Asia,Event Booth
+291,2025-03-05,7,199,1393,Europe,Retail Partner
+292,2025-04-24,16,229,3664,South America,Direct Sales
+293,2025-05-12,5,149,745,Africa,Direct Sales
+294,2025-07-29,11,229,2519,South America,Retail Partner
+295,2025-08-08,17,229,3893,Asia,Event Booth
+296,2025-02-21,9,149,1341,Asia,Direct Sales
+297,2025-12-14,12,229,2748,Europe,Retail Partner
+298,2025-09-27,3,199,597,South America,Event Booth
+299,2025-03-06,10,179,1790,Asia,Event Booth
+300,2025-04-16,6,149,894,Europe,Retail Partner
+301,2025-10-16,4,149,596,South America,Direct Sales
+302,2025-02-23,8,179,1432,Europe,Retail Partner
+303,2025-01-19,8,149,1192,South America,Online Store
+304,2025-02-18,15,229,3435,Africa,Event Booth
+305,2025-07-04,17,229,3893,Africa,Direct Sales
+306,2025-03-15,18,229,4122,Africa,Direct Sales
+307,2025-06-11,18,149,2682,Asia,Retail Partner
+308,2025-11-28,15,199,2985,Asia,Online Store
+309,2025-10-24,7,199,1393,Africa,Online Store
+310,2025-02-08,12,149,1788,Africa,Direct Sales
+311,2025-03-28,14,149,2086,Europe,Event Booth
+312,2025-03-30,11,229,2519,Asia,Event Booth
+313,2025-11-27,2,199,398,South America,Retail Partner
+314,2025-09-14,4,149,596,Africa,Retail Partner
+315,2025-10-12,10,199,1990,Europe,Direct Sales
+316,2025-05-03,1,199,199,Europe,Direct Sales
+317,2025-09-16,14,179,2506,Africa,Event Booth
+318,2025-04-18,3,149,447,South America,Direct Sales
+319,2025-03-13,9,229,2061,Asia,Event Booth
+320,2025-03-03,17,199,3383,Europe,Direct Sales
+321,2025-03-07,9,229,2061,North America,Retail Partner
+322,2025-10-25,3,179,537,Asia,Direct Sales
+323,2025-09-22,18,229,4122,Asia,Direct Sales
+324,2025-10-29,19,199,3781,Europe,Direct Sales
+325,2025-10-20,4,149,596,South America,Direct Sales
+326,2025-11-16,14,179,2506,Africa,Direct Sales
+327,2025-04-08,9,199,1791,Africa,Event Booth
+328,2025-01-21,6,229,1374,South America,Direct Sales
+329,2025-09-03,20,149,2980,South America,Event Booth
+330,2025-09-22,4,179,716,North America,Retail Partner
+331,2025-01-23,7,229,1603,North America,Event Booth
+332,2025-03-13,12,179,2148,South America,Retail Partner
+333,2025-03-28,19,179,3401,Africa,Online Store
+334,2025-01-14,20,229,4580,South America,Online Store
+335,2025-09-17,12,199,2388,Asia,Direct Sales
+336,2025-05-16,2,179,358,Europe,Online Store
+337,2025-01-14,8,179,1432,North America,Online Store
+338,2025-08-15,7,179,1253,Europe,Event Booth
+339,2025-10-28,5,229,1145,Africa,Retail Partner
+340,2025-09-22,7,229,1603,Asia,Retail Partner
+341,2025-03-09,8,229,1832,Asia,Event Booth
+342,2025-02-01,11,199,2189,Europe,Retail Partner
+343,2025-10-04,11,199,2189,Asia,Direct Sales
+344,2025-07-11,13,229,2977,Africa,Direct Sales
+345,2025-01-18,1,179,179,Europe,Direct Sales
+346,2025-08-20,3,179,537,Africa,Direct Sales
+347,2025-11-13,12,199,2388,Asia,Direct Sales
+348,2025-06-28,8,199,1592,Europe,Online Store
+349,2025-04-13,14,199,2786,North America,Online Store
+350,2025-03-15,20,199,3980,Africa,Event Booth
+351,2025-04-11,13,149,1937,South America,Direct Sales
+352,2025-04-08,13,179,2327,Europe,Direct Sales
+353,2025-07-15,17,229,3893,South America,Event Booth
+354,2025-02-17,19,149,2831,South America,Direct Sales
+355,2025-11-26,16,229,3664,Asia,Event Booth
+356,2025-08-08,7,149,1043,Europe,Direct Sales
+357,2025-09-19,19,149,2831,North America,Online Store
+358,2025-10-28,1,199,199,South America,Direct Sales
+359,2025-04-27,17,199,3383,Africa,Online Store
+360,2025-04-14,18,149,2682,Africa,Online Store
+361,2025-02-21,18,199,3582,Asia,Retail Partner
+362,2025-01-04,15,229,3435,Asia,Retail Partner
+363,2025-10-28,15,149,2235,South America,Direct Sales
+364,2025-04-20,3,149,447,South America,Direct Sales
+365,2025-06-06,7,229,1603,South America,Direct Sales
+366,2025-02-11,7,149,1043,Europe,Event Booth
+367,2025-09-21,7,179,1253,North America,Event Booth
+368,2025-11-27,16,179,2864,South America,Direct Sales
+369,2025-03-01,15,199,2985,Europe,Online Store
+370,2025-12-12,10,199,1990,South America,Event Booth
+371,2025-06-07,17,229,3893,Africa,Retail Partner
+372,2025-10-21,1,199,199,Europe,Retail Partner
+373,2025-11-04,18,149,2682,Europe,Direct Sales
+374,2025-04-01,4,229,916,Europe,Retail Partner
+375,2025-06-28,1,229,229,South America,Retail Partner
+376,2025-05-20,2,179,358,South America,Event Booth
+377,2025-02-04,11,229,2519,Asia,Online Store
+378,2025-10-05,13,149,1937,Asia,Retail Partner
+379,2025-07-18,14,149,2086,South America,Online Store
+380,2025-12-04,2,179,358,North America,Event Booth
+381,2025-03-03,13,199,2587,Europe,Retail Partner
+382,2025-09-22,19,179,3401,North America,Online Store
+383,2025-10-10,4,199,796,South America,Event Booth
+384,2025-06-13,3,199,597,North America,Direct Sales
+385,2025-04-04,15,229,3435,Asia,Event Booth
+386,2025-03-13,13,179,2327,Africa,Event Booth
+387,2025-01-04,4,179,716,Asia,Retail Partner
+388,2025-10-24,13,229,2977,Europe,Direct Sales
+389,2025-05-30,12,149,1788,Europe,Retail Partner
+390,2025-11-10,9,199,1791,Asia,Direct Sales
+391,2025-07-17,10,179,1790,Africa,Event Booth
+392,2025-07-15,8,199,1592,South America,Direct Sales
+393,2025-06-21,17,229,3893,Asia,Direct Sales
+394,2025-06-09,6,149,894,Asia,Event Booth
+395,2025-10-09,2,179,358,Asia,Retail Partner
+396,2025-06-26,2,229,458,Asia,Event Booth
+397,2025-09-11,20,179,3580,Africa,Event Booth
+398,2025-07-12,15,229,3435,South America,Direct Sales
+399,2025-10-21,18,179,3222,Europe,Event Booth
+400,2025-07-22,6,199,1194,South America,Event Booth
+401,2025-04-23,14,229,3206,Africa,Retail Partner
+402,2025-01-17,13,229,2977,Europe,Online Store
+403,2025-07-30,2,179,358,Africa,Online Store
+404,2025-04-29,13,149,1937,Africa,Online Store
+405,2025-08-12,9,179,1611,Asia,Event Booth
+406,2025-07-21,20,199,3980,South America,Online Store
+407,2025-10-06,5,179,895,South America,Retail Partner
+408,2025-05-29,6,179,1074,Asia,Retail Partner
+409,2025-01-06,2,149,298,Africa,Online Store
+410,2025-11-11,16,179,2864,Asia,Direct Sales
+411,2025-06-30,5,199,995,Europe,Retail Partner
+412,2025-08-09,2,179,358,South America,Event Booth
+413,2025-05-03,11,179,1969,Africa,Retail Partner
+414,2025-04-28,7,149,1043,Asia,Online Store
+415,2025-07-09,14,199,2786,Europe,Retail Partner
+416,2025-09-27,11,199,2189,Asia,Event Booth
+417,2025-10-24,15,229,3435,Europe,Event Booth
+418,2025-04-09,13,229,2977,Africa,Retail Partner
+419,2025-09-18,3,179,537,South America,Direct Sales
+420,2025-10-17,3,179,537,Europe,Event Booth
+421,2025-08-26,9,149,1341,North America,Event Booth
+422,2025-05-11,3,179,537,Africa,Online Store
+423,2025-04-17,9,179,1611,North America,Retail Partner
+424,2025-05-15,9,179,1611,Europe,Online Store
+425,2025-02-10,5,179,895,Africa,Retail Partner
+426,2025-06-04,14,179,2506,South America,Event Booth
+427,2025-08-18,1,229,229,North America,Online Store
+428,2025-02-20,19,229,4351,Europe,Retail Partner
+429,2025-09-15,3,179,537,Asia,Online Store
+430,2025-03-13,19,149,2831,North America,Retail Partner
+431,2025-07-13,9,179,1611,North America,Direct Sales
+432,2025-09-15,19,199,3781,North America,Direct Sales
+433,2025-09-18,11,199,2189,South America,Direct Sales
+434,2025-06-02,4,149,596,Europe,Retail Partner
+435,2025-05-02,7,199,1393,North America,Event Booth
+436,2025-05-14,18,199,3582,South America,Event Booth
+437,2025-12-04,16,199,3184,North America,Direct Sales
+438,2025-09-21,1,149,149,North America,Event Booth
+439,2025-04-25,12,199,2388,Africa,Online Store
+440,2025-11-02,10,149,1490,Africa,Retail Partner
+441,2025-12-31,15,229,3435,Europe,Direct Sales
+442,2025-06-12,5,149,745,Asia,Online Store
+443,2025-12-01,6,149,894,South America,Direct Sales
+444,2025-01-06,15,199,2985,Africa,Online Store
+445,2025-01-06,9,199,1791,Europe,Retail Partner
+446,2025-01-05,2,229,458,Asia,Online Store
+447,2025-11-21,6,149,894,Africa,Direct Sales
+448,2025-01-08,16,179,2864,North America,Retail Partner
+449,2025-05-16,8,229,1832,Africa,Online Store
+450,2025-08-27,18,149,2682,South America,Retail Partner
+451,2025-10-30,17,149,2533,North America,Event Booth
+452,2025-12-29,14,179,2506,Africa,Online Store
+453,2025-06-09,8,179,1432,South America,Retail Partner
+454,2025-04-30,14,199,2786,Africa,Direct Sales
+455,2025-01-25,7,199,1393,Africa,Online Store
+456,2025-04-22,3,229,687,South America,Direct Sales
+457,2025-04-19,19,199,3781,South America,Retail Partner
+458,2025-05-14,20,199,3980,Europe,Retail Partner
+459,2025-06-15,9,199,1791,Africa,Event Booth
+460,2025-06-30,12,229,2748,Europe,Direct Sales
+461,2025-05-07,1,199,199,Asia,Retail Partner
+462,2025-11-17,4,149,596,South America,Direct Sales
+463,2025-03-13,11,199,2189,South America,Direct Sales
+464,2025-09-30,3,149,447,North America,Online Store
+465,2025-12-04,16,229,3664,Europe,Direct Sales
+466,2025-01-25,3,229,687,Europe,Online Store
+467,2025-08-11,10,199,1990,North America,Retail Partner
+468,2025-08-29,19,149,2831,South America,Direct Sales
+469,2025-04-21,9,199,1791,Europe,Direct Sales
+470,2025-12-08,7,149,1043,North America,Direct Sales
+471,2025-05-31,11,229,2519,Asia,Event Booth
+472,2025-04-25,9,149,1341,Asia,Event Booth
+473,2025-01-05,7,149,1043,South America,Event Booth
+474,2025-07-11,11,229,2519,South America,Online Store
+475,2025-07-16,9,229,2061,North America,Online Store
+476,2025-05-10,2,199,398,Europe,Online Store
+477,2025-10-25,19,179,3401,Europe,Event Booth
+478,2025-09-02,15,179,2685,North America,Direct Sales
+479,2025-06-04,9,199,1791,South America,Retail Partner
+480,2025-05-19,7,149,1043,South America,Event Booth
+481,2025-02-25,11,149,1639,North America,Direct Sales
+482,2025-07-01,7,229,1603,South America,Direct Sales
+483,2025-12-27,16,149,2384,Africa,Event Booth
+484,2025-01-28,13,149,1937,Asia,Retail Partner
+485,2025-03-15,17,199,3383,South America,Event Booth
+486,2025-12-07,1,229,229,Asia,Retail Partner
+487,2025-09-21,15,199,2985,North America,Online Store
+488,2025-01-26,14,179,2506,North America,Direct Sales
+489,2025-05-10,11,149,1639,Africa,Event Booth
+490,2025-02-19,13,229,2977,Africa,Retail Partner
+491,2025-08-17,11,179,1969,South America,Retail Partner
+492,2025-01-28,6,199,1194,Asia,Event Booth
+493,2025-07-30,12,149,1788,Europe,Online Store
+494,2025-04-01,17,149,2533,North America,Direct Sales
+495,2025-12-09,1,179,179,South America,Retail Partner
+496,2025-09-18,16,149,2384,Africa,Direct Sales
+497,2025-11-15,6,179,1074,South America,Direct Sales
+498,2025-07-25,7,229,1603,North America,Retail Partner
+499,2025-02-21,12,179,2148,South America,Online Store
+500,2025-06-05,9,149,1341,Asia,Event Booth
+501,2025-09-12,1,149,149,Africa,Direct Sales
+502,2025-01-07,1,229,229,South America,Event Booth
+503,2025-10-07,17,149,2533,Europe,Event Booth
+504,2025-01-07,3,149,447,North America,Retail Partner
+505,2025-03-14,16,229,3664,North America,Direct Sales
+506,2025-12-23,2,149,298,Asia,Retail Partner
+507,2025-05-16,17,229,3893,North America,Direct Sales
+508,2025-07-28,1,179,179,Europe,Retail Partner
+509,2025-10-17,18,229,4122,Europe,Direct Sales
+510,2025-06-27,7,149,1043,Europe,Event Booth
+511,2025-11-06,6,149,894,Africa,Event Booth
+512,2025-10-12,5,149,745,South America,Online Store
+513,2025-12-19,20,229,4580,Africa,Online Store
+514,2025-06-02,19,199,3781,Africa,Event Booth
+515,2025-09-18,5,229,1145,Asia,Online Store
+516,2025-08-11,11,199,2189,South America,Online Store
+517,2025-07-07,20,179,3580,Africa,Direct Sales
+518,2025-09-08,14,229,3206,Africa,Direct Sales
+519,2025-01-30,4,149,596,Europe,Direct Sales
+520,2025-05-08,15,199,2985,Africa,Direct Sales
+521,2025-02-14,13,179,2327,Africa,Direct Sales
+522,2025-06-30,2,229,458,South America,Online Store
+523,2025-01-28,19,179,3401,South America,Online Store
+524,2025-12-06,13,199,2587,Asia,Retail Partner
+525,2025-08-21,10,199,1990,South America,Online Store
+526,2025-06-10,20,179,3580,South America,Event Booth
+527,2025-11-09,13,229,2977,North America,Direct Sales
+528,2025-08-30,18,149,2682,Europe,Retail Partner
+529,2025-08-01,13,179,2327,Asia,Event Booth
+530,2025-10-06,9,179,1611,Africa,Direct Sales
+531,2025-04-08,17,179,3043,North America,Retail Partner
+532,2025-05-11,19,229,4351,North America,Direct Sales
+533,2025-02-12,10,149,1490,Asia,Event Booth
+534,2025-11-19,12,229,2748,South America,Direct Sales
+535,2025-01-16,6,149,894,Africa,Direct Sales
+536,2025-10-21,3,179,537,Africa,Direct Sales
+537,2025-03-09,17,179,3043,South America,Direct Sales
+538,2025-03-08,17,179,3043,North America,Online Store
+539,2025-12-13,10,149,1490,Asia,Online Store
+540,2025-08-25,15,149,2235,North America,Online Store
+541,2025-09-28,7,149,1043,Asia,Direct Sales
+542,2025-02-26,8,179,1432,Asia,Retail Partner
+543,2025-03-04,1,229,229,North America,Direct Sales
+544,2025-04-29,11,149,1639,Europe,Direct Sales
+545,2025-10-13,1,149,149,Africa,Event Booth
+546,2025-05-03,16,229,3664,Asia,Direct Sales
+547,2025-12-08,8,199,1592,Asia,Direct Sales
+548,2025-12-31,13,179,2327,South America,Event Booth
+549,2025-09-16,18,229,4122,Asia,Event Booth
+550,2025-01-21,7,179,1253,Asia,Retail Partner
+551,2025-04-17,18,149,2682,North America,Event Booth
+552,2025-12-28,6,179,1074,Africa,Direct Sales
+553,2025-01-03,1,229,229,Asia,Event Booth
+554,2025-09-19,16,199,3184,Europe,Direct Sales
+555,2025-03-18,16,149,2384,Africa,Retail Partner
+556,2025-08-18,4,229,916,Europe,Event Booth
+557,2025-09-12,1,179,179,Asia,Event Booth
+558,2025-04-03,7,229,1603,South America,Online Store
+559,2025-02-08,6,179,1074,North America,Direct Sales
+560,2025-11-21,14,199,2786,Europe,Online Store
+561,2025-08-23,6,199,1194,North America,Direct Sales
+562,2025-05-15,5,179,895,Africa,Retail Partner
+563,2025-04-25,4,179,716,North America,Online Store
+564,2025-11-20,11,149,1639,South America,Event Booth
+565,2025-09-29,20,229,4580,Europe,Retail Partner
+566,2025-04-16,14,179,2506,Asia,Retail Partner
+567,2025-01-08,7,199,1393,Europe,Online Store
+568,2025-08-15,17,229,3893,North America,Retail Partner
+569,2025-08-25,12,149,1788,Europe,Event Booth
+570,2025-03-12,14,229,3206,North America,Online Store
+571,2025-06-21,8,199,1592,Africa,Retail Partner
+572,2025-01-14,14,149,2086,Europe,Direct Sales
+573,2025-03-18,13,229,2977,South America,Event Booth
+574,2025-06-18,15,179,2685,North America,Retail Partner
+575,2025-06-01,7,179,1253,North America,Retail Partner
+576,2025-09-30,9,229,2061,Europe,Event Booth
+577,2025-02-16,1,149,149,North America,Direct Sales
+578,2025-01-14,19,149,2831,Europe,Direct Sales
+579,2025-05-05,15,179,2685,Africa,Direct Sales
+580,2025-07-20,17,229,3893,South America,Event Booth
+581,2025-01-20,12,199,2388,Asia,Event Booth
+582,2025-03-07,7,229,1603,North America,Event Booth
+583,2025-06-08,9,229,2061,North America,Direct Sales
+584,2025-09-03,19,179,3401,Europe,Online Store
+585,2025-05-03,15,199,2985,South America,Event Booth
+586,2025-02-03,12,179,2148,Asia,Event Booth
+587,2025-08-27,14,229,3206,Europe,Retail Partner
+588,2025-10-06,15,229,3435,Europe,Event Booth
+589,2025-02-04,2,179,358,Africa,Event Booth
+590,2025-02-28,17,179,3043,North America,Event Booth
+591,2025-03-27,4,149,596,North America,Online Store
+592,2025-09-25,19,149,2831,Africa,Retail Partner
+593,2025-04-20,18,179,3222,South America,Retail Partner
+594,2025-10-10,11,199,2189,Europe,Retail Partner
+595,2025-08-31,20,179,3580,Asia,Online Store
+596,2025-01-03,8,179,1432,North America,Direct Sales
+597,2025-11-22,16,179,2864,South America,Retail Partner
+598,2025-11-01,20,199,3980,North America,Event Booth
+599,2025-07-30,20,149,2980,South America,Online Store
+600,2025-03-21,4,199,796,North America,Direct Sales
+601,2025-01-11,2,229,458,South America,Direct Sales
+602,2025-08-21,2,199,398,Europe,Retail Partner
+603,2025-06-22,18,179,3222,North America,Event Booth
+604,2025-06-10,6,179,1074,Asia,Retail Partner
+605,2025-02-02,14,229,3206,Europe,Direct Sales
+606,2025-10-26,11,229,2519,Asia,Online Store
+607,2025-10-16,10,199,1990,North America,Online Store
+608,2025-06-30,13,179,2327,Europe,Online Store
+609,2025-01-03,8,149,1192,North America,Direct Sales
+610,2025-02-20,14,149,2086,South America,Retail Partner
+611,2025-12-05,6,149,894,North America,Direct Sales
+612,2025-02-20,6,229,1374,North America,Online Store
+613,2025-11-21,12,199,2388,North America,Event Booth
+614,2025-08-03,16,179,2864,South America,Retail Partner
+615,2025-07-07,19,149,2831,South America,Retail Partner
+616,2025-04-08,4,199,796,Africa,Event Booth
+617,2025-08-11,3,229,687,North America,Retail Partner
+618,2025-02-22,15,229,3435,Europe,Event Booth
+619,2025-10-09,2,149,298,Asia,Direct Sales
+620,2025-12-22,17,199,3383,Asia,Direct Sales
+621,2025-04-11,20,199,3980,North America,Online Store
+622,2025-01-14,20,179,3580,South America,Direct Sales
+623,2025-08-13,12,229,2748,North America,Event Booth
+624,2025-11-16,10,199,1990,South America,Online Store
+625,2025-05-29,17,229,3893,South America,Retail Partner
+626,2025-09-20,3,199,597,South America,Online Store
+627,2025-09-14,14,179,2506,South America,Online Store
+628,2025-12-26,15,179,2685,Europe,Event Booth
+629,2025-11-07,17,149,2533,North America,Event Booth
+630,2025-02-07,6,199,1194,North America,Direct Sales
+631,2025-01-01,5,149,745,Asia,Retail Partner
+632,2025-08-27,12,179,2148,Africa,Direct Sales
+633,2025-05-27,14,229,3206,Africa,Retail Partner
+634,2025-05-23,2,199,398,Europe,Retail Partner
+635,2025-03-04,1,229,229,South America,Retail Partner
+636,2025-08-12,1,199,199,Asia,Event Booth
+637,2025-03-19,20,229,4580,Europe,Direct Sales
+638,2025-07-20,17,149,2533,Asia,Online Store
+639,2025-09-11,7,149,1043,Asia,Retail Partner
+640,2025-08-14,14,149,2086,Europe,Online Store
+641,2025-04-18,18,229,4122,Europe,Online Store
+642,2025-10-23,8,229,1832,South America,Event Booth
+643,2025-08-14,11,179,1969,Asia,Online Store
+644,2025-04-06,19,149,2831,North America,Direct Sales
+645,2025-09-11,10,179,1790,Africa,Direct Sales
+646,2025-07-06,5,179,895,Europe,Event Booth
+647,2025-12-20,2,229,458,South America,Event Booth
+648,2025-08-21,18,179,3222,Africa,Event Booth
+649,2025-05-05,16,149,2384,South America,Online Store
+650,2025-08-19,15,149,2235,Europe,Retail Partner
+651,2025-10-01,2,229,458,Africa,Direct Sales
+652,2025-08-07,13,149,1937,North America,Retail Partner
+653,2025-09-13,3,229,687,Asia,Direct Sales
+654,2025-11-06,14,229,3206,Europe,Online Store
+655,2025-08-07,15,179,2685,Europe,Direct Sales
+656,2025-04-02,17,229,3893,Africa,Retail Partner
+657,2025-02-18,17,179,3043,Africa,Direct Sales
+658,2025-04-23,17,229,3893,North America,Direct Sales
+659,2025-09-13,5,149,745,Europe,Retail Partner
+660,2025-09-22,9,229,2061,Asia,Direct Sales
+661,2025-07-04,13,149,1937,North America,Retail Partner
+662,2025-05-08,12,149,1788,Asia,Retail Partner
+663,2025-10-23,7,149,1043,North America,Direct Sales
+664,2025-07-13,17,199,3383,North America,Retail Partner
+665,2025-04-23,15,229,3435,Africa,Event Booth
+666,2025-09-02,2,229,458,Europe,Direct Sales
+667,2025-05-18,12,199,2388,Africa,Event Booth
+668,2025-06-13,19,229,4351,Asia,Event Booth
+669,2025-07-15,1,199,199,Africa,Direct Sales
+670,2025-05-21,6,229,1374,Europe,Direct Sales
+671,2025-11-05,18,199,3582,Asia,Retail Partner
+672,2025-02-26,2,149,298,Africa,Event Booth
+673,2025-11-29,9,179,1611,North America,Event Booth
+674,2025-08-04,2,229,458,Asia,Retail Partner
+675,2025-10-01,17,229,3893,South America,Retail Partner
+676,2025-01-23,20,149,2980,Africa,Retail Partner
+677,2025-10-25,14,199,2786,Asia,Direct Sales
+678,2025-06-10,7,229,1603,Asia,Direct Sales
+679,2025-04-29,5,199,995,Asia,Event Booth
+680,2025-12-24,4,229,916,North America,Online Store
+681,2025-07-16,7,179,1253,North America,Direct Sales
+682,2025-04-02,11,149,1639,South America,Direct Sales
+683,2025-07-23,8,149,1192,Africa,Retail Partner
+684,2025-01-01,5,199,995,South America,Event Booth
+685,2025-04-20,13,179,2327,South America,Event Booth
+686,2025-07-30,12,199,2388,North America,Direct Sales
+687,2025-06-09,18,149,2682,Africa,Event Booth
+688,2025-05-29,12,179,2148,North America,Event Booth
+689,2025-04-21,11,179,1969,North America,Direct Sales
+690,2025-12-05,2,149,298,Asia,Retail Partner
+691,2025-09-28,5,149,745,Asia,Retail Partner
+692,2025-01-29,3,229,687,South America,Direct Sales
+693,2025-05-09,6,179,1074,North America,Online Store
+694,2025-05-04,16,149,2384,South America,Direct Sales
+695,2025-09-18,16,199,3184,Asia,Retail Partner
+696,2025-03-10,10,229,2290,South America,Retail Partner
+697,2025-05-30,20,179,3580,South America,Retail Partner
+698,2025-08-26,14,199,2786,North America,Retail Partner
+699,2025-11-05,11,179,1969,South America,Event Booth
+700,2025-10-23,17,149,2533,Asia,Event Booth
+701,2025-10-15,7,229,1603,Europe,Event Booth
+702,2025-08-21,14,179,2506,Europe,Retail Partner
+703,2025-07-26,12,199,2388,North America,Event Booth
+704,2025-06-30,1,199,199,Africa,Direct Sales
+705,2025-03-15,11,199,2189,Europe,Online Store
+706,2025-03-05,1,149,149,Europe,Online Store
+707,2025-10-23,14,229,3206,Europe,Retail Partner
+708,2025-11-22,9,149,1341,Europe,Direct Sales
+709,2025-12-05,14,199,2786,Asia,Online Store
+710,2025-12-28,18,149,2682,South America,Retail Partner
+711,2025-08-17,17,149,2533,North America,Direct Sales
+712,2025-05-27,17,199,3383,North America,Retail Partner
+713,2025-12-15,17,229,3893,Europe,Event Booth
+714,2025-03-01,3,179,537,Asia,Direct Sales
+715,2025-04-19,10,179,1790,South America,Event Booth
+716,2025-08-11,18,149,2682,Africa,Retail Partner
+717,2025-11-29,16,229,3664,South America,Direct Sales
+718,2025-06-15,1,229,229,North America,Retail Partner
+719,2025-11-10,20,149,2980,North America,Direct Sales
+720,2025-12-18,4,199,796,Asia,Online Store
+721,2025-05-07,1,179,179,North America,Event Booth
+722,2025-03-26,3,199,597,Africa,Online Store
+723,2025-12-22,18,229,4122,Asia,Retail Partner
+724,2025-02-03,14,199,2786,South America,Direct Sales
+725,2025-12-24,20,179,3580,South America,Event Booth
+726,2025-08-04,15,179,2685,Europe,Direct Sales
+727,2025-01-27,16,229,3664,Europe,Event Booth
+728,2025-10-16,3,149,447,Europe,Event Booth
+729,2025-04-01,2,229,458,South America,Online Store
+730,2025-09-23,13,199,2587,Europe,Direct Sales
+731,2025-10-14,12,199,2388,Europe,Retail Partner
+732,2025-10-13,16,229,3664,Asia,Event Booth
+733,2025-10-15,11,149,1639,North America,Retail Partner
+734,2025-11-08,12,149,1788,North America,Direct Sales
+735,2025-06-08,11,179,1969,Africa,Direct Sales
+736,2025-05-21,3,199,597,Africa,Event Booth
+737,2025-09-13,1,149,149,South America,Online Store
+738,2025-10-11,8,149,1192,Europe,Event Booth
+739,2025-01-20,7,199,1393,Africa,Online Store
+740,2025-01-02,9,179,1611,Europe,Direct Sales
+741,2025-09-13,9,199,1791,Europe,Direct Sales
+742,2025-01-13,10,229,2290,South America,Direct Sales
+743,2025-08-26,8,149,1192,Africa,Retail Partner
+744,2025-10-13,2,199,398,North America,Direct Sales
+745,2025-09-06,2,229,458,South America,Online Store
+746,2025-05-14,8,229,1832,Asia,Direct Sales
+747,2025-03-26,10,229,2290,Africa,Direct Sales
+748,2025-07-06,11,229,2519,South America,Retail Partner
+749,2025-06-05,13,229,2977,Asia,Online Store
+750,2025-10-06,14,179,2506,North America,Online Store
+751,2025-04-22,7,179,1253,Africa,Online Store
+752,2025-06-09,6,179,1074,South America,Direct Sales
+753,2025-08-01,18,149,2682,Asia,Retail Partner
+754,2025-06-23,3,229,687,North America,Retail Partner
+755,2025-10-10,19,179,3401,Africa,Online Store
+756,2025-04-11,7,199,1393,Africa,Direct Sales
+757,2025-07-02,6,179,1074,North America,Online Store
+758,2025-02-05,13,179,2327,Africa,Direct Sales
+759,2025-04-07,14,199,2786,North America,Online Store
+760,2025-11-28,14,179,2506,Africa,Direct Sales
+761,2025-05-31,4,149,596,Asia,Retail Partner
+762,2025-01-27,9,229,2061,Africa,Online Store
+763,2025-04-05,14,199,2786,South America,Direct Sales
+764,2025-07-28,17,149,2533,Africa,Online Store
+765,2025-01-24,14,229,3206,Europe,Direct Sales
+766,2025-11-12,4,149,596,Europe,Direct Sales
+767,2025-03-23,16,199,3184,Africa,Direct Sales
+768,2025-10-23,5,229,1145,Africa,Event Booth
+769,2025-05-01,14,229,3206,South America,Event Booth
+770,2025-05-13,14,199,2786,Africa,Retail Partner
+771,2025-06-22,7,229,1603,Africa,Direct Sales
+772,2025-07-26,2,179,358,Europe,Event Booth
+773,2025-06-08,18,229,4122,North America,Online Store
+774,2025-04-24,5,229,1145,Asia,Retail Partner
+775,2025-07-28,4,229,916,North America,Retail Partner
+776,2025-01-18,11,229,2519,Asia,Online Store
+777,2025-05-27,20,149,2980,Asia,Event Booth
+778,2025-06-21,5,229,1145,Europe,Online Store
+779,2025-08-16,13,179,2327,North America,Online Store
+780,2025-08-01,5,179,895,Asia,Direct Sales
+781,2025-07-02,12,149,1788,South America,Retail Partner
+782,2025-12-28,15,149,2235,Europe,Retail Partner
+783,2025-12-26,2,149,298,Africa,Event Booth
+784,2025-08-29,8,199,1592,North America,Retail Partner
+785,2025-05-13,12,229,2748,Africa,Event Booth
+786,2025-07-30,8,199,1592,Europe,Retail Partner
+787,2025-10-04,7,149,1043,South America,Online Store
+788,2025-05-14,3,149,447,Asia,Online Store
+789,2025-05-12,5,199,995,Africa,Event Booth
+790,2025-09-06,4,149,596,North America,Direct Sales
+791,2025-08-03,8,149,1192,Asia,Event Booth
+792,2025-10-21,8,199,1592,Europe,Direct Sales
+793,2025-02-16,14,199,2786,Africa,Event Booth
+794,2025-03-15,11,199,2189,North America,Online Store
+795,2025-03-13,15,149,2235,Europe,Online Store
+796,2025-04-23,18,229,4122,Europe,Event Booth
+797,2025-11-26,16,179,2864,North America,Online Store
+798,2025-01-09,9,179,1611,North America,Direct Sales
+799,2025-05-28,16,149,2384,Asia,Direct Sales
+800,2025-06-30,2,149,298,South America,Direct Sales
+801,2025-08-15,12,179,2148,Africa,Event Booth
+802,2025-08-10,6,179,1074,North America,Event Booth
+803,2025-11-16,7,199,1393,South America,Retail Partner
+804,2025-04-20,7,179,1253,South America,Direct Sales
+805,2025-11-21,9,199,1791,Africa,Online Store
+806,2025-02-15,7,229,1603,North America,Online Store
+807,2025-09-02,14,179,2506,South America,Online Store
+808,2025-05-10,18,149,2682,Asia,Direct Sales
+809,2025-08-15,4,179,716,South America,Event Booth
+810,2025-07-10,9,179,1611,Asia,Retail Partner
+811,2025-11-06,2,179,358,Africa,Direct Sales
+812,2025-01-09,18,229,4122,Asia,Direct Sales
+813,2025-03-19,2,179,358,Europe,Direct Sales
+814,2025-07-17,10,179,1790,North America,Retail Partner
+815,2025-12-01,13,179,2327,North America,Retail Partner
+816,2025-02-24,20,199,3980,Asia,Event Booth
+817,2025-03-22,15,149,2235,Asia,Online Store
+818,2025-03-18,5,199,995,Africa,Event Booth
+819,2025-12-21,3,149,447,South America,Event Booth
+820,2025-07-21,17,149,2533,Europe,Retail Partner
+821,2025-06-20,5,229,1145,Asia,Online Store
+822,2025-08-17,14,229,3206,South America,Event Booth
+823,2025-04-19,14,199,2786,South America,Event Booth
+824,2025-12-08,7,199,1393,Asia,Retail Partner
+825,2025-03-17,2,179,358,South America,Retail Partner
+826,2025-09-20,19,179,3401,North America,Event Booth
+827,2025-06-12,20,179,3580,Europe,Event Booth
+828,2025-10-12,9,229,2061,North America,Online Store
+829,2025-06-05,6,199,1194,North America,Event Booth
+830,2025-09-30,8,179,1432,South America,Direct Sales
+831,2025-09-15,20,229,4580,Africa,Retail Partner
+832,2025-05-05,3,229,687,Asia,Online Store
+833,2025-08-18,4,199,796,Europe,Direct Sales
+834,2025-03-20,13,229,2977,Europe,Direct Sales
+835,2025-06-03,18,149,2682,Asia,Direct Sales
+836,2025-07-13,18,149,2682,Africa,Event Booth
+837,2025-05-18,19,149,2831,Africa,Event Booth
+838,2025-02-04,15,199,2985,Africa,Event Booth
+839,2025-12-20,18,149,2682,Africa,Online Store
+840,2025-07-20,19,179,3401,Africa,Event Booth
+841,2025-04-10,8,179,1432,Asia,Online Store
+842,2025-03-21,10,229,2290,North America,Direct Sales
+843,2025-10-21,5,199,995,Asia,Direct Sales
+844,2025-02-14,14,149,2086,Asia,Event Booth
+845,2025-10-21,1,149,149,Africa,Direct Sales
+846,2025-06-18,1,199,199,South America,Direct Sales
+847,2025-06-16,19,149,2831,South America,Retail Partner
+848,2025-12-24,6,149,894,Europe,Direct Sales
+849,2025-01-06,17,229,3893,Asia,Retail Partner
+850,2025-07-16,17,199,3383,Asia,Event Booth
+851,2025-06-19,20,179,3580,Africa,Event Booth
+852,2025-09-19,11,199,2189,South America,Event Booth
+853,2025-11-22,5,179,895,South America,Event Booth
+854,2025-01-04,16,229,3664,Asia,Direct Sales
+855,2025-06-28,5,229,1145,Africa,Online Store
+856,2025-05-03,4,229,916,Africa,Retail Partner
+857,2025-07-21,10,149,1490,Africa,Event Booth
+858,2025-02-11,16,229,3664,Asia,Direct Sales
+859,2025-04-19,8,199,1592,Africa,Online Store
+860,2025-07-22,16,149,2384,Asia,Retail Partner
+861,2025-12-17,5,199,995,Asia,Direct Sales
+862,2025-04-17,5,229,1145,North America,Retail Partner
+863,2025-03-10,11,179,1969,Asia,Event Booth
+864,2025-11-19,15,149,2235,Africa,Direct Sales
+865,2025-12-09,1,199,199,Europe,Online Store
+866,2025-04-24,17,149,2533,Europe,Direct Sales
+867,2025-03-20,19,199,3781,Africa,Event Booth
+868,2025-07-25,12,199,2388,South America,Online Store
+869,2025-10-26,13,149,1937,North America,Retail Partner
+870,2025-05-23,14,199,2786,Asia,Event Booth
+871,2025-03-26,2,149,298,North America,Event Booth
+872,2025-02-25,17,149,2533,Asia,Event Booth
+873,2025-11-05,15,199,2985,South America,Event Booth
+874,2025-08-27,4,149,596,Europe,Event Booth
+875,2025-03-22,20,149,2980,Europe,Event Booth
+876,2025-09-03,13,199,2587,North America,Online Store
+877,2025-08-22,6,179,1074,Europe,Direct Sales
+878,2025-10-26,18,199,3582,South America,Online Store
+879,2025-04-07,6,179,1074,South America,Retail Partner
+880,2025-07-11,9,229,2061,Africa,Retail Partner
+881,2025-12-01,15,149,2235,North America,Event Booth
+882,2025-04-08,3,149,447,Africa,Direct Sales
+883,2025-06-02,18,229,4122,North America,Event Booth
+884,2025-09-02,15,179,2685,Africa,Event Booth
+885,2025-02-06,15,149,2235,South America,Retail Partner
+886,2025-07-07,3,229,687,North America,Event Booth
+887,2025-11-22,17,149,2533,North America,Online Store
+888,2025-08-02,14,149,2086,Africa,Retail Partner
+889,2025-04-03,13,199,2587,South America,Direct Sales
+890,2025-03-08,8,179,1432,North America,Online Store
+891,2025-04-23,20,199,3980,Africa,Retail Partner
+892,2025-08-20,14,229,3206,Africa,Online Store
+893,2025-05-26,18,199,3582,Africa,Event Booth
+894,2025-03-21,6,199,1194,North America,Event Booth
+895,2025-08-06,3,199,597,Africa,Direct Sales
+896,2025-12-08,9,149,1341,Europe,Online Store
+897,2025-02-11,20,179,3580,Europe,Online Store
+898,2025-01-11,3,199,597,North America,Direct Sales
+899,2025-12-14,5,149,745,South America,Direct Sales
+900,2025-02-10,12,179,2148,Europe,Online Store
+901,2025-03-29,6,199,1194,South America,Direct Sales
+902,2025-07-09,11,149,1639,Asia,Event Booth
+903,2025-03-06,12,149,1788,North America,Online Store
+904,2025-05-09,3,179,537,North America,Event Booth
+905,2025-11-02,12,149,1788,Asia,Direct Sales
+906,2025-04-12,10,199,1990,Africa,Direct Sales
+907,2025-09-20,1,179,179,Asia,Retail Partner
+908,2025-09-09,13,149,1937,North America,Event Booth
+909,2025-06-06,8,199,1592,Africa,Online Store
+910,2025-09-02,11,199,2189,Asia,Event Booth
+911,2025-11-17,9,179,1611,Asia,Retail Partner
+912,2025-06-02,9,149,1341,North America,Event Booth
+913,2025-10-03,10,199,1990,Asia,Online Store
+914,2025-09-23,9,149,1341,Europe,Event Booth
+915,2025-02-08,7,179,1253,Africa,Retail Partner
+916,2025-04-21,4,149,596,North America,Event Booth
+917,2025-11-13,13,179,2327,North America,Retail Partner
+918,2025-11-25,11,229,2519,Africa,Direct Sales
+919,2025-08-06,15,179,2685,Africa,Direct Sales
+920,2025-08-29,12,199,2388,Europe,Event Booth
+921,2025-08-06,9,199,1791,Asia,Event Booth
+922,2025-01-01,12,229,2748,North America,Direct Sales
+923,2025-07-23,13,179,2327,Europe,Retail Partner
+924,2025-06-06,11,229,2519,Africa,Direct Sales
+925,2025-09-13,7,229,1603,South America,Online Store
+926,2025-11-06,17,179,3043,South America,Online Store
+927,2025-11-25,15,229,3435,North America,Direct Sales
+928,2025-12-15,17,229,3893,Europe,Online Store
+929,2025-05-26,19,149,2831,North America,Online Store
+930,2025-12-26,8,229,1832,Asia,Direct Sales
+931,2025-09-10,1,199,199,Asia,Event Booth
+932,2025-11-06,16,229,3664,Asia,Event Booth
+933,2025-03-02,16,179,2864,South America,Direct Sales
+934,2025-07-30,6,149,894,Asia,Retail Partner
+935,2025-05-16,20,199,3980,Africa,Online Store
+936,2025-07-18,16,179,2864,South America,Retail Partner
+937,2025-12-02,1,229,229,Africa,Direct Sales
+938,2025-05-31,14,179,2506,Africa,Event Booth
+939,2025-10-23,3,199,597,Africa,Online Store
+940,2025-09-13,9,149,1341,Europe,Retail Partner
+941,2025-10-19,10,229,2290,North America,Online Store
+942,2025-01-21,3,149,447,Europe,Event Booth
+943,2025-01-20,10,199,1990,Europe,Direct Sales
+944,2025-11-28,16,199,3184,South America,Direct Sales
+945,2025-04-08,17,229,3893,North America,Event Booth
+946,2025-12-05,13,149,1937,Africa,Event Booth
+947,2025-12-01,13,149,1937,South America,Direct Sales
+948,2025-12-28,16,179,2864,North America,Retail Partner
+949,2025-12-22,7,229,1603,Africa,Online Store
+950,2025-03-27,20,229,4580,South America,Direct Sales
+951,2025-10-13,8,149,1192,South America,Retail Partner
+952,2025-06-12,7,179,1253,North America,Retail Partner
+953,2025-04-21,11,199,2189,North America,Online Store
+954,2025-05-05,12,149,1788,South America,Online Store
+955,2025-01-26,20,149,2980,South America,Online Store
+956,2025-02-08,10,199,1990,Asia,Online Store
+957,2025-11-16,8,179,1432,South America,Direct Sales
+958,2025-10-12,2,199,398,Asia,Retail Partner
+959,2025-11-09,2,199,398,South America,Retail Partner
+960,2025-12-16,5,179,895,Europe,Retail Partner
+961,2025-04-08,15,179,2685,Europe,Direct Sales
+962,2025-04-03,9,149,1341,South America,Event Booth
+963,2025-08-16,7,229,1603,North America,Retail Partner
+964,2025-11-14,11,229,2519,Africa,Event Booth
+965,2025-12-01,20,149,2980,Europe,Retail Partner
+966,2025-02-18,7,199,1393,Asia,Online Store
+967,2025-09-04,10,149,1490,Asia,Online Store
+968,2025-08-01,5,179,895,Europe,Online Store
+969,2025-08-31,4,179,716,Africa,Direct Sales
+970,2025-07-08,1,199,199,Europe,Online Store
+971,2025-01-28,8,149,1192,Europe,Event Booth
+972,2025-11-01,12,199,2388,South America,Retail Partner
+973,2025-04-20,20,179,3580,Europe,Event Booth
+974,2025-06-21,12,149,1788,Europe,Event Booth
+975,2025-11-04,2,179,358,North America,Direct Sales
+976,2025-08-08,15,229,3435,South America,Direct Sales
+977,2025-01-11,8,179,1432,Asia,Event Booth
+978,2025-08-03,10,199,1990,Europe,Direct Sales
+979,2025-03-13,18,229,4122,South America,Direct Sales
+980,2025-11-25,15,229,3435,Asia,Online Store
+981,2025-10-23,14,229,3206,North America,Direct Sales
+982,2025-10-04,1,149,149,North America,Event Booth
+983,2025-12-04,12,149,1788,Asia,Direct Sales
+984,2025-02-14,9,229,2061,Asia,Online Store
+985,2025-10-08,17,229,3893,Asia,Event Booth
+986,2025-09-04,11,229,2519,Africa,Direct Sales
+987,2025-11-10,8,229,1832,Europe,Retail Partner
+988,2025-10-23,19,199,3781,Europe,Event Booth
+989,2025-11-11,1,199,199,Africa,Direct Sales
+990,2025-05-05,13,179,2327,Africa,Direct Sales
+991,2025-11-03,13,179,2327,Africa,Event Booth
+992,2025-12-12,13,199,2587,Asia,Retail Partner
+993,2025-09-24,13,179,2327,North America,Online Store
+994,2025-09-19,2,199,398,Asia,Retail Partner
+995,2025-09-07,20,199,3980,Africa,Direct Sales
+996,2025-12-30,19,149,2831,Africa,Retail Partner
+997,2025-12-25,8,149,1192,Europe,Event Booth
+998,2025-10-30,12,229,2748,Africa,Retail Partner
+999,2025-02-26,3,149,447,South America,Event Booth
+1000,2025-01-10,13,229,2977,Asia,Direct Sales
+1001,2025-07-11,10,149,1490,Asia,Online Store
+1002,2025-05-31,4,199,796,Africa,Event Booth
+1003,2025-10-26,14,229,3206,South America,Direct Sales
+1004,2025-09-13,2,199,398,South America,Event Booth
+1005,2025-01-24,5,199,995,South America,Online Store
+1006,2025-07-30,7,199,1393,South America,Direct Sales
+1007,2025-12-25,6,199,1194,Asia,Online Store
+1008,2025-01-14,13,149,1937,Asia,Direct Sales
+1009,2025-08-30,11,179,1969,North America,Direct Sales
+1010,2025-09-21,17,229,3893,Asia,Direct Sales
+1011,2025-02-06,15,149,2235,Africa,Direct Sales
+1012,2025-09-21,1,199,199,North America,Online Store
+1013,2025-12-27,15,149,2235,Europe,Retail Partner
+1014,2025-06-14,9,199,1791,South America,Online Store
+1015,2025-05-23,14,199,2786,South America,Event Booth
+1016,2025-07-28,5,229,1145,Asia,Online Store
+1017,2025-06-29,15,179,2685,North America,Online Store
+1018,2025-06-22,12,229,2748,North America,Retail Partner
+1019,2025-10-12,20,199,3980,South America,Retail Partner
+1020,2025-07-14,7,229,1603,Asia,Retail Partner
+1021,2025-08-03,10,179,1790,North America,Online Store
+1022,2025-07-10,17,229,3893,North America,Online Store
+1023,2025-09-17,11,199,2189,South America,Event Booth
+1024,2025-11-02,18,179,3222,Asia,Direct Sales
+1025,2025-05-09,12,229,2748,Asia,Retail Partner
+1026,2025-06-05,5,149,745,North America,Direct Sales
+1027,2025-04-11,11,199,2189,Europe,Event Booth
+1028,2025-10-07,11,149,1639,Europe,Event Booth
+1029,2025-01-21,1,229,229,Europe,Event Booth
+1030,2025-04-06,5,199,995,Asia,Retail Partner
+1031,2025-01-16,15,149,2235,Africa,Event Booth
+1032,2025-08-12,7,149,1043,Europe,Online Store
+1033,2025-11-13,15,199,2985,North America,Online Store
+1034,2025-05-30,17,199,3383,South America,Direct Sales
+1035,2025-01-07,19,149,2831,Asia,Online Store
+1036,2025-06-15,12,149,1788,Asia,Event Booth
+1037,2025-10-22,13,229,2977,Asia,Retail Partner
+1038,2025-02-28,7,179,1253,Europe,Online Store
+1039,2025-10-16,4,179,716,Africa,Online Store
+1040,2025-07-15,9,179,1611,South America,Retail Partner
+1041,2025-11-05,19,179,3401,Africa,Retail Partner
+1042,2025-02-28,3,199,597,South America,Retail Partner
+1043,2025-06-23,4,199,796,South America,Event Booth
+1044,2025-01-09,5,149,745,North America,Direct Sales
+1045,2025-06-23,6,229,1374,North America,Event Booth
+1046,2025-09-20,7,179,1253,South America,Event Booth
+1047,2025-05-23,9,229,2061,South America,Retail Partner
+1048,2025-12-30,5,149,745,Europe,Direct Sales
+1049,2025-06-30,1,229,229,Europe,Event Booth
+1050,2025-09-23,15,229,3435,Asia,Online Store
+1051,2025-01-04,4,229,916,Africa,Event Booth
+1052,2025-01-24,10,179,1790,Asia,Direct Sales
+1053,2025-07-23,14,229,3206,North America,Retail Partner
+1054,2025-10-10,2,179,358,South America,Event Booth
+1055,2025-05-15,17,149,2533,North America,Event Booth
+1056,2025-10-27,19,199,3781,Europe,Online Store
+1057,2025-08-23,19,149,2831,Asia,Direct Sales
+1058,2025-09-14,18,179,3222,Europe,Online Store
+1059,2025-11-13,19,199,3781,Europe,Direct Sales
+1060,2025-09-29,20,199,3980,South America,Online Store
+1061,2025-07-17,11,199,2189,North America,Direct Sales
+1062,2025-10-27,5,149,745,Europe,Direct Sales
+1063,2025-04-20,11,199,2189,South America,Retail Partner
+1064,2025-02-09,2,199,398,Africa,Direct Sales
+1065,2025-07-16,8,149,1192,North America,Direct Sales
+1066,2025-03-21,6,149,894,Africa,Event Booth
+1067,2025-11-19,4,229,916,Africa,Event Booth
+1068,2025-03-29,18,199,3582,Europe,Retail Partner
+1069,2025-05-26,12,199,2388,Asia,Retail Partner
+1070,2025-06-24,3,149,447,Asia,Retail Partner
+1071,2025-01-16,17,229,3893,South America,Retail Partner
+1072,2025-09-11,14,199,2786,Asia,Event Booth
+1073,2025-10-18,19,149,2831,Europe,Online Store
+1074,2025-10-11,7,149,1043,North America,Online Store
+1075,2025-08-18,2,149,298,Asia,Event Booth
+1076,2025-08-12,19,179,3401,South America,Retail Partner
+1077,2025-11-03,3,229,687,Asia,Event Booth
+1078,2025-01-16,3,149,447,South America,Direct Sales
+1079,2025-11-19,9,229,2061,North America,Direct Sales
+1080,2025-08-30,4,229,916,Europe,Online Store
+1081,2025-06-30,7,149,1043,Europe,Direct Sales
+1082,2025-03-09,5,229,1145,Africa,Direct Sales
+1083,2025-01-14,3,229,687,South America,Online Store
+1084,2025-06-06,8,229,1832,North America,Direct Sales
+1085,2025-04-27,15,199,2985,Asia,Event Booth
+1086,2025-06-06,9,229,2061,Africa,Event Booth
+1087,2025-07-09,10,199,1990,Europe,Online Store
+1088,2025-02-05,5,179,895,Asia,Direct Sales
+1089,2025-04-25,3,179,537,North America,Event Booth
+1090,2025-06-02,5,149,745,Asia,Retail Partner
+1091,2025-10-16,15,179,2685,Asia,Event Booth
+1092,2025-10-03,2,149,298,Europe,Event Booth
+1093,2025-09-03,4,199,796,Europe,Event Booth
+1094,2025-04-01,5,149,745,Asia,Retail Partner
+1095,2025-06-21,12,199,2388,North America,Online Store
+1096,2025-03-02,20,179,3580,Asia,Direct Sales
+1097,2025-12-28,3,149,447,Asia,Event Booth
+1098,2025-04-16,13,199,2587,North America,Event Booth
+1099,2025-12-26,11,199,2189,Asia,Online Store
+1100,2025-12-17,20,149,2980,Europe,Retail Partner
+1101,2025-09-07,20,179,3580,South America,Retail Partner
+1102,2025-07-10,19,179,3401,Africa,Online Store
+1103,2025-06-11,20,229,4580,South America,Event Booth
+1104,2025-12-20,14,149,2086,Africa,Retail Partner
+1105,2025-12-08,12,199,2388,Africa,Event Booth
+1106,2025-07-10,14,199,2786,North America,Online Store
+1107,2025-12-20,10,229,2290,South America,Online Store
+1108,2025-09-08,4,179,716,Europe,Event Booth
+1109,2025-02-02,18,179,3222,Africa,Retail Partner
+1110,2025-03-07,9,229,2061,Europe,Retail Partner
+1111,2025-08-19,20,229,4580,Africa,Retail Partner
+1112,2025-11-29,12,179,2148,North America,Online Store
+1113,2025-05-02,1,179,179,South America,Online Store
+1114,2025-10-23,3,149,447,Europe,Retail Partner
+1115,2025-09-01,15,229,3435,North America,Online Store
+1116,2025-11-07,20,229,4580,Africa,Direct Sales
+1117,2025-11-01,8,199,1592,South America,Event Booth
+1118,2025-07-22,20,229,4580,North America,Online Store
+1119,2025-07-01,2,179,358,North America,Direct Sales
+1120,2025-06-05,8,149,1192,Europe,Retail Partner
+1121,2025-03-16,1,229,229,North America,Direct Sales
+1122,2025-07-04,6,149,894,Europe,Event Booth
+1123,2025-07-02,2,179,358,South America,Online Store
+1124,2025-11-06,17,229,3893,Asia,Retail Partner
+1125,2025-11-06,11,199,2189,Europe,Direct Sales
+1126,2025-12-28,17,199,3383,North America,Direct Sales
+1127,2025-08-27,9,229,2061,Asia,Event Booth
+1128,2025-04-30,1,229,229,Africa,Event Booth
+1129,2025-07-22,14,229,3206,Africa,Retail Partner
+1130,2025-03-11,11,149,1639,Africa,Direct Sales
+1131,2025-12-19,20,229,4580,South America,Online Store
+1132,2025-06-19,19,149,2831,North America,Direct Sales
+1133,2025-02-19,3,199,597,North America,Direct Sales
+1134,2025-11-10,5,149,745,South America,Event Booth
+1135,2025-06-15,14,199,2786,Europe,Retail Partner
+1136,2025-01-09,20,149,2980,North America,Online Store
+1137,2025-09-01,3,149,447,South America,Event Booth
+1138,2025-11-03,7,149,1043,South America,Direct Sales
+1139,2025-10-30,13,179,2327,North America,Direct Sales
+1140,2025-12-10,16,199,3184,Europe,Event Booth
+1141,2025-04-21,11,149,1639,North America,Online Store
+1142,2025-10-29,13,179,2327,North America,Direct Sales
+1143,2025-06-14,7,179,1253,South America,Direct Sales
+1144,2025-05-31,5,199,995,South America,Retail Partner
+1145,2025-11-15,9,149,1341,South America,Event Booth
+1146,2025-04-24,19,149,2831,Europe,Online Store
+1147,2025-04-13,15,149,2235,North America,Event Booth
+1148,2025-11-27,7,149,1043,Africa,Retail Partner
+1149,2025-07-30,14,199,2786,Europe,Event Booth
+1150,2025-06-12,18,179,3222,South America,Event Booth
+1151,2025-09-01,13,229,2977,Europe,Retail Partner
+1152,2025-05-14,15,179,2685,Europe,Direct Sales
+1153,2025-05-22,14,199,2786,South America,Event Booth
+1154,2025-06-13,1,229,229,North America,Direct Sales
+1155,2025-06-08,18,199,3582,Africa,Online Store
+1156,2025-03-25,2,179,358,North America,Event Booth
+1157,2025-01-15,19,229,4351,Europe,Event Booth
+1158,2025-07-20,17,149,2533,Europe,Online Store
+1159,2025-04-07,17,179,3043,Africa,Online Store
+1160,2025-09-10,4,199,796,Europe,Event Booth
+1161,2025-08-19,18,149,2682,Africa,Event Booth
+1162,2025-01-11,15,149,2235,North America,Direct Sales
+1163,2025-06-07,10,179,1790,Europe,Direct Sales
+1164,2025-04-14,4,149,596,North America,Direct Sales
+1165,2025-04-09,14,149,2086,South America,Direct Sales
+1166,2025-07-08,17,179,3043,Africa,Online Store
+1167,2025-10-04,5,179,895,Asia,Direct Sales
+1168,2025-08-22,7,179,1253,Europe,Retail Partner
+1169,2025-01-30,6,149,894,North America,Direct Sales
+1170,2025-12-31,11,229,2519,Europe,Direct Sales
+1171,2025-01-10,13,179,2327,North America,Retail Partner
+1172,2025-02-16,16,199,3184,South America,Direct Sales
+1173,2025-03-22,12,179,2148,North America,Retail Partner
+1174,2025-01-24,18,149,2682,Africa,Retail Partner
+1175,2025-04-25,8,229,1832,Africa,Retail Partner
+1176,2025-10-05,17,149,2533,North America,Direct Sales
+1177,2025-12-02,13,199,2587,Africa,Retail Partner
+1178,2025-10-02,12,229,2748,Asia,Direct Sales
+1179,2025-12-23,2,229,458,Asia,Retail Partner
+1180,2025-10-04,11,179,1969,South America,Direct Sales
+1181,2025-05-10,4,229,916,South America,Direct Sales
+1182,2025-06-20,8,149,1192,North America,Event Booth
+1183,2025-10-29,16,199,3184,North America,Event Booth
+1184,2025-10-04,17,199,3383,South America,Retail Partner
+1185,2025-03-11,12,199,2388,Africa,Retail Partner
+1186,2025-04-15,18,149,2682,Asia,Event Booth
+1187,2025-01-15,5,179,895,Africa,Direct Sales
+1188,2025-05-27,5,199,995,North America,Online Store
+1189,2025-08-02,17,199,3383,Asia,Online Store
+1190,2025-04-06,13,179,2327,Asia,Direct Sales
+1191,2025-05-03,20,229,4580,Asia,Direct Sales
+1192,2025-08-08,11,149,1639,Asia,Direct Sales
+1193,2025-09-11,3,229,687,North America,Retail Partner
+1194,2025-07-28,14,229,3206,North America,Retail Partner
+1195,2025-03-12,8,179,1432,Africa,Retail Partner
+1196,2025-02-14,14,179,2506,Europe,Direct Sales
+1197,2025-05-26,17,199,3383,North America,Direct Sales
+1198,2025-04-02,15,199,2985,Europe,Retail Partner
+1199,2025-03-05,9,199,1791,South America,Online Store
+1200,2025-03-06,15,199,2985,Africa,Direct Sales
+1201,2025-11-19,7,149,1043,Africa,Retail Partner
+1202,2025-09-19,7,229,1603,Africa,Direct Sales
+1203,2025-05-26,20,229,4580,North America,Online Store
+1204,2025-04-18,19,229,4351,North America,Online Store
+1205,2025-05-05,18,179,3222,North America,Online Store
+1206,2025-07-10,8,179,1432,North America,Retail Partner
+1207,2025-01-07,3,149,447,North America,Online Store
+1208,2025-04-17,9,149,1341,Europe,Direct Sales
+1209,2025-12-23,20,179,3580,Europe,Retail Partner
+1210,2025-07-09,5,179,895,Europe,Event Booth
+1211,2025-11-25,8,179,1432,South America,Online Store
+1212,2025-05-10,10,149,1490,South America,Direct Sales
+1213,2025-02-20,2,199,398,Asia,Event Booth
+1214,2025-04-18,8,179,1432,Asia,Event Booth
+1215,2025-04-17,17,199,3383,Asia,Online Store
+1216,2025-06-14,6,149,894,Africa,Online Store
+1217,2025-08-20,9,179,1611,Africa,Online Store
+1218,2025-04-16,10,179,1790,Asia,Retail Partner
+1219,2025-06-06,9,149,1341,Asia,Event Booth
+1220,2025-08-20,10,199,1990,Africa,Retail Partner
+1221,2025-02-17,10,199,1990,Europe,Retail Partner
+1222,2025-03-23,7,149,1043,Africa,Retail Partner
+1223,2025-04-17,3,149,447,Asia,Online Store
+1224,2025-09-05,8,149,1192,Asia,Event Booth
+1225,2025-12-01,16,229,3664,Asia,Direct Sales
+1226,2025-04-24,19,149,2831,South America,Online Store
+1227,2025-08-11,4,179,716,Europe,Direct Sales
+1228,2025-06-11,16,149,2384,Europe,Event Booth
+1229,2025-01-08,18,199,3582,South America,Event Booth
+1230,2025-10-09,13,229,2977,South America,Retail Partner
+1231,2025-05-05,17,179,3043,North America,Event Booth
+1232,2025-05-13,10,179,1790,Africa,Event Booth
+1233,2025-11-09,13,179,2327,North America,Retail Partner
+1234,2025-06-10,12,179,2148,South America,Online Store
+1235,2025-03-31,4,179,716,Africa,Event Booth
+1236,2025-01-18,16,199,3184,Europe,Online Store
+1237,2025-10-24,6,229,1374,Asia,Online Store
+1238,2025-05-20,10,179,1790,Asia,Retail Partner
+1239,2025-11-28,9,179,1611,Africa,Event Booth
+1240,2025-03-24,8,179,1432,Africa,Event Booth
+1241,2025-09-10,1,149,149,Asia,Direct Sales
+1242,2025-06-16,20,149,2980,North America,Event Booth
+1243,2025-01-07,18,149,2682,Africa,Event Booth
+1244,2025-10-21,10,179,1790,Africa,Online Store
+1245,2025-11-26,1,179,179,South America,Online Store
+1246,2025-06-24,20,179,3580,Africa,Event Booth
+1247,2025-06-04,10,149,1490,Asia,Retail Partner
+1248,2025-12-20,10,179,1790,South America,Direct Sales
+1249,2025-10-27,9,149,1341,Europe,Event Booth
+1250,2025-05-16,17,199,3383,Asia,Retail Partner
+1251,2025-10-10,1,199,199,Asia,Online Store
+1252,2025-11-19,1,229,229,South America,Online Store
+1253,2025-11-07,18,179,3222,Asia,Online Store
+1254,2025-02-25,3,229,687,South America,Retail Partner
+1255,2025-11-24,14,179,2506,Africa,Direct Sales
+1256,2025-11-03,4,179,716,North America,Retail Partner
+1257,2025-05-20,5,229,1145,North America,Direct Sales
+1258,2025-04-09,4,179,716,Europe,Retail Partner
+1259,2025-01-08,11,179,1969,Europe,Retail Partner
+1260,2025-11-18,8,229,1832,Africa,Retail Partner
+1261,2025-09-29,6,149,894,Europe,Online Store
+1262,2025-07-14,1,149,149,Asia,Direct Sales
+1263,2025-09-16,9,229,2061,Africa,Event Booth
+1264,2025-02-13,16,149,2384,South America,Retail Partner
+1265,2025-01-28,18,149,2682,Europe,Retail Partner
+1266,2025-02-08,3,149,447,North America,Event Booth
+1267,2025-04-25,2,199,398,Africa,Event Booth
+1268,2025-10-14,6,229,1374,South America,Event Booth
+1269,2025-09-24,4,199,796,Asia,Retail Partner
+1270,2025-04-28,4,199,796,North America,Event Booth
+1271,2025-08-08,1,149,149,Asia,Online Store
+1272,2025-07-20,2,229,458,Asia,Event Booth
+1273,2025-12-12,20,179,3580,Asia,Event Booth
+1274,2025-07-10,19,199,3781,Europe,Retail Partner
+1275,2025-05-13,8,149,1192,South America,Online Store
+1276,2025-08-29,3,149,447,North America,Event Booth
+1277,2025-02-09,10,199,1990,South America,Online Store
+1278,2025-10-07,1,149,149,Europe,Online Store
+1279,2025-10-13,5,149,745,Asia,Retail Partner
+1280,2025-08-09,2,149,298,North America,Retail Partner
+1281,2025-05-30,17,179,3043,Africa,Event Booth
+1282,2025-04-09,16,149,2384,Africa,Online Store
+1283,2025-01-27,14,199,2786,South America,Retail Partner
+1284,2025-03-08,17,179,3043,Africa,Retail Partner
+1285,2025-02-24,9,179,1611,North America,Retail Partner
+1286,2025-09-27,20,179,3580,Africa,Online Store
+1287,2025-03-24,19,149,2831,Europe,Online Store
+1288,2025-08-15,6,149,894,South America,Direct Sales
+1289,2025-09-16,14,229,3206,North America,Event Booth
+1290,2025-09-17,11,199,2189,Africa,Event Booth
+1291,2025-05-19,5,179,895,Asia,Direct Sales
+1292,2025-04-10,4,179,716,South America,Event Booth
+1293,2025-07-20,7,199,1393,Europe,Event Booth
+1294,2025-01-29,3,229,687,Asia,Online Store
+1295,2025-03-18,19,229,4351,North America,Event Booth
+1296,2025-07-14,6,149,894,Europe,Retail Partner
+1297,2025-12-11,7,149,1043,North America,Event Booth
+1298,2025-12-15,20,199,3980,South America,Online Store
+1299,2025-05-10,12,229,2748,Europe,Retail Partner
+1300,2025-04-01,3,179,537,Asia,Online Store
+1301,2025-07-09,4,229,916,South America,Event Booth
+1302,2025-04-03,17,199,3383,Europe,Online Store
+1303,2025-09-14,20,199,3980,South America,Online Store
+1304,2025-07-17,8,199,1592,Africa,Direct Sales
+1305,2025-04-19,10,149,1490,Europe,Retail Partner
+1306,2025-12-17,8,149,1192,Asia,Retail Partner
+1307,2025-04-16,20,149,2980,Europe,Online Store
+1308,2025-06-07,3,199,597,Europe,Retail Partner
+1309,2025-05-21,2,179,358,Europe,Event Booth
+1310,2025-09-29,5,179,895,South America,Retail Partner
+1311,2025-01-08,6,179,1074,Asia,Retail Partner
+1312,2025-07-04,6,229,1374,South America,Retail Partner
+1313,2025-09-08,12,199,2388,Africa,Online Store
+1314,2025-03-24,4,149,596,Africa,Retail Partner
+1315,2025-12-02,14,149,2086,South America,Online Store
+1316,2025-06-14,18,199,3582,South America,Retail Partner
+1317,2025-11-24,3,199,597,South America,Direct Sales
+1318,2025-03-04,5,199,995,Africa,Online Store
+1319,2025-02-07,10,199,1990,Africa,Direct Sales
+1320,2025-07-20,3,229,687,North America,Online Store
+1321,2025-03-31,13,149,1937,Europe,Direct Sales
+1322,2025-01-14,3,199,597,Asia,Event Booth
+1323,2025-10-10,4,229,916,Asia,Online Store
+1324,2025-04-18,3,149,447,Africa,Event Booth
+1325,2025-10-24,19,199,3781,South America,Retail Partner
+1326,2025-04-07,1,199,199,Asia,Event Booth
+1327,2025-09-19,12,199,2388,Africa,Online Store
+1328,2025-10-19,8,199,1592,South America,Direct Sales
+1329,2025-05-01,11,229,2519,North America,Online Store
+1330,2025-12-10,10,199,1990,Asia,Online Store
+1331,2025-01-02,15,199,2985,Europe,Event Booth
+1332,2025-11-07,11,149,1639,Asia,Direct Sales
+1333,2025-05-30,3,199,597,Europe,Direct Sales
+1334,2025-05-18,18,149,2682,South America,Online Store
+1335,2025-07-16,13,179,2327,North America,Online Store
+1336,2025-12-10,14,179,2506,Asia,Retail Partner
+1337,2025-01-17,18,229,4122,Asia,Direct Sales
+1338,2025-12-26,3,229,687,Africa,Online Store
+1339,2025-12-10,11,229,2519,North America,Retail Partner
+1340,2025-01-01,3,149,447,Asia,Event Booth
+1341,2025-08-31,11,229,2519,Asia,Direct Sales
+1342,2025-08-09,2,149,298,Asia,Retail Partner
+1343,2025-04-17,10,149,1490,Europe,Retail Partner
+1344,2025-04-07,8,149,1192,Europe,Event Booth
+1345,2025-09-05,12,179,2148,North America,Online Store
+1346,2025-10-18,13,199,2587,North America,Retail Partner
+1347,2025-11-09,12,199,2388,Africa,Event Booth
+1348,2025-09-27,5,179,895,Africa,Retail Partner
+1349,2025-05-28,17,199,3383,North America,Event Booth
+1350,2025-01-21,11,229,2519,Europe,Direct Sales
+1351,2025-05-16,20,199,3980,North America,Direct Sales
+1352,2025-12-03,15,149,2235,Europe,Direct Sales
+1353,2025-12-26,12,149,1788,North America,Online Store
+1354,2025-01-12,9,179,1611,Africa,Direct Sales
+1355,2025-07-16,14,179,2506,South America,Direct Sales
+1356,2025-02-06,12,199,2388,Europe,Direct Sales
+1357,2025-03-25,9,199,1791,Asia,Retail Partner
+1358,2025-11-20,6,229,1374,North America,Online Store
+1359,2025-03-09,11,149,1639,South America,Retail Partner
+1360,2025-10-21,20,149,2980,Africa,Retail Partner
+1361,2025-12-30,12,229,2748,Asia,Event Booth
+1362,2025-10-17,10,149,1490,Europe,Retail Partner
+1363,2025-07-17,9,179,1611,Africa,Online Store
+1364,2025-05-20,17,149,2533,Asia,Direct Sales
+1365,2025-12-16,2,179,358,North America,Retail Partner
+1366,2025-12-04,3,229,687,South America,Direct Sales
+1367,2025-03-23,6,229,1374,Asia,Direct Sales
+1368,2025-10-29,9,179,1611,Europe,Retail Partner
+1369,2025-02-23,6,229,1374,Asia,Online Store
+1370,2025-11-17,20,199,3980,Africa,Event Booth
+1371,2025-08-26,11,229,2519,Europe,Direct Sales
+1372,2025-02-09,13,229,2977,Africa,Event Booth
+1373,2025-11-12,18,179,3222,Africa,Event Booth
+1374,2025-10-16,6,149,894,Africa,Event Booth
+1375,2025-12-31,8,229,1832,South America,Event Booth
+1376,2025-12-04,5,179,895,Europe,Event Booth
+1377,2025-07-17,15,149,2235,Africa,Retail Partner
+1378,2025-09-17,13,149,1937,Europe,Direct Sales
+1379,2025-08-11,16,149,2384,Asia,Online Store
+1380,2025-11-13,6,179,1074,Asia,Direct Sales
+1381,2025-02-26,14,179,2506,North America,Event Booth
+1382,2025-09-22,3,149,447,Asia,Online Store
+1383,2025-03-11,17,149,2533,South America,Direct Sales
+1384,2025-05-14,3,149,447,South America,Retail Partner
+1385,2025-07-01,1,149,149,Asia,Retail Partner
+1386,2025-03-04,8,199,1592,North America,Online Store
+1387,2025-07-24,4,229,916,South America,Direct Sales
+1388,2025-12-29,11,229,2519,South America,Online Store
+1389,2025-01-20,3,149,447,North America,Retail Partner
+1390,2025-07-19,10,149,1490,South America,Event Booth
+1391,2025-10-21,11,229,2519,Asia,Direct Sales
+1392,2025-11-25,3,179,537,Asia,Direct Sales
+1393,2025-08-22,8,179,1432,Europe,Direct Sales
+1394,2025-03-30,1,229,229,North America,Direct Sales
+1395,2025-07-22,14,149,2086,Asia,Direct Sales
+1396,2025-03-11,4,149,596,Africa,Event Booth
+1397,2025-12-06,7,179,1253,South America,Online Store
+1398,2025-04-23,16,229,3664,North America,Retail Partner
+1399,2025-07-20,3,149,447,North America,Event Booth
+1400,2025-01-18,7,179,1253,Asia,Direct Sales
+1401,2025-09-11,11,199,2189,North America,Direct Sales
+1402,2025-11-18,10,179,1790,Europe,Online Store
+1403,2025-08-23,16,199,3184,Asia,Online Store
+1404,2025-09-05,1,229,229,North America,Online Store
+1405,2025-09-14,13,149,1937,North America,Retail Partner
+1406,2025-01-20,11,179,1969,Europe,Event Booth
+1407,2025-11-17,6,199,1194,Europe,Retail Partner
+1408,2025-10-09,15,199,2985,North America,Retail Partner
+1409,2025-11-07,19,229,4351,South America,Retail Partner
+1410,2025-01-17,1,179,179,Asia,Retail Partner
+1411,2025-09-10,17,229,3893,South America,Retail Partner
+1412,2025-04-05,2,179,358,North America,Direct Sales
+1413,2025-07-15,1,179,179,South America,Direct Sales
+1414,2025-02-28,19,149,2831,Asia,Online Store
+1415,2025-11-29,20,229,4580,Europe,Event Booth
+1416,2025-12-12,15,199,2985,Africa,Event Booth
+1417,2025-02-17,17,149,2533,South America,Retail Partner
+1418,2025-09-11,2,179,358,Africa,Online Store
+1419,2025-07-09,12,229,2748,South America,Retail Partner
+1420,2025-09-17,20,199,3980,Asia,Online Store
+1421,2025-04-01,19,229,4351,North America,Online Store
+1422,2025-09-06,9,229,2061,Europe,Online Store
+1423,2025-04-14,1,179,179,South America,Online Store
+1424,2025-06-04,8,149,1192,Asia,Retail Partner
+1425,2025-06-14,12,149,1788,South America,Online Store
+1426,2025-12-10,17,179,3043,North America,Online Store
+1427,2025-02-09,1,199,199,Asia,Retail Partner
+1428,2025-12-27,9,179,1611,Asia,Online Store
+1429,2025-02-02,1,179,179,Africa,Direct Sales
+1430,2025-03-16,10,179,1790,South America,Direct Sales
+1431,2025-10-29,17,149,2533,Africa,Direct Sales
+1432,2025-11-20,10,149,1490,North America,Direct Sales
+1433,2025-02-21,16,149,2384,Europe,Event Booth
+1434,2025-09-28,16,179,2864,Asia,Retail Partner
+1435,2025-02-24,8,229,1832,Africa,Online Store
+1436,2025-12-24,7,229,1603,Europe,Direct Sales
+1437,2025-02-04,6,199,1194,South America,Direct Sales
+1438,2025-05-22,4,179,716,North America,Event Booth
+1439,2025-08-04,18,149,2682,North America,Event Booth
+1440,2025-07-03,11,199,2189,Africa,Retail Partner
+1441,2025-01-13,14,149,2086,South America,Retail Partner
+1442,2025-05-04,15,199,2985,Europe,Online Store
+1443,2025-01-09,19,149,2831,Europe,Online Store
+1444,2025-03-28,16,229,3664,South America,Event Booth
+1445,2025-04-10,10,149,1490,North America,Direct Sales
+1446,2025-05-25,12,229,2748,South America,Event Booth
+1447,2025-08-01,9,179,1611,Africa,Online Store
+1448,2025-06-01,14,199,2786,Europe,Online Store
+1449,2025-11-19,8,199,1592,Europe,Event Booth
+1450,2025-01-09,20,179,3580,Africa,Online Store
+1451,2025-02-02,17,199,3383,Europe,Online Store
+1452,2025-10-03,1,199,199,Africa,Event Booth
+1453,2025-09-22,6,179,1074,Africa,Direct Sales
+1454,2025-01-04,8,149,1192,Asia,Online Store
+1455,2025-07-14,1,229,229,Europe,Event Booth
+1456,2025-01-03,2,149,298,Europe,Event Booth
+1457,2025-10-15,19,179,3401,Europe,Event Booth
+1458,2025-04-20,4,149,596,South America,Event Booth
+1459,2025-01-28,2,199,398,South America,Direct Sales
+1460,2025-01-04,12,179,2148,Europe,Retail Partner
+1461,2025-01-07,7,149,1043,Europe,Online Store
+1462,2025-03-01,19,229,4351,South America,Direct Sales
+1463,2025-01-28,20,199,3980,North America,Retail Partner
+1464,2025-06-03,6,179,1074,North America,Direct Sales
+1465,2025-01-02,18,149,2682,South America,Event Booth
+1466,2025-11-14,18,149,2682,South America,Event Booth
+1467,2025-09-12,11,199,2189,Africa,Online Store
+1468,2025-07-05,9,199,1791,North America,Retail Partner
+1469,2025-05-02,17,199,3383,Europe,Online Store
+1470,2025-01-27,5,229,1145,North America,Online Store
+1471,2025-04-26,11,179,1969,Asia,Retail Partner
+1472,2025-09-20,12,229,2748,Asia,Direct Sales
+1473,2025-10-28,20,149,2980,Asia,Retail Partner
+1474,2025-04-02,14,149,2086,Africa,Online Store
+1475,2025-05-07,15,179,2685,Europe,Retail Partner
+1476,2025-04-16,20,179,3580,Asia,Retail Partner
+1477,2025-07-29,13,149,1937,Europe,Direct Sales
+1478,2025-07-21,15,199,2985,Asia,Retail Partner
+1479,2025-02-11,10,229,2290,Asia,Retail Partner
+1480,2025-11-12,9,229,2061,South America,Direct Sales
+1481,2025-02-26,7,229,1603,Asia,Online Store
+1482,2025-04-09,20,199,3980,South America,Online Store
+1483,2025-04-27,10,229,2290,Asia,Retail Partner
+1484,2025-02-05,5,149,745,Africa,Retail Partner
+1485,2025-09-27,20,229,4580,Europe,Direct Sales
+1486,2025-10-06,14,229,3206,South America,Retail Partner
+1487,2025-02-14,13,199,2587,Asia,Direct Sales
+1488,2025-07-09,18,199,3582,Asia,Online Store
+1489,2025-08-27,7,199,1393,Africa,Online Store
+1490,2025-08-03,12,149,1788,Europe,Retail Partner
+1491,2025-01-18,15,149,2235,Africa,Retail Partner
+1492,2025-07-15,19,149,2831,Europe,Online Store
+1493,2025-09-09,4,179,716,Europe,Online Store
+1494,2025-09-27,4,149,596,Asia,Direct Sales
+1495,2025-02-13,14,229,3206,Europe,Direct Sales
+1496,2025-10-20,8,179,1432,Europe,Direct Sales
+1497,2025-02-25,17,199,3383,Europe,Online Store
+1498,2025-06-07,17,229,3893,North America,Retail Partner
+1499,2025-10-29,13,229,2977,South America,Online Store
+1500,2025-03-16,4,229,916,Europe,Event Booth
+1501,2025-11-27,10,179,1790,North America,Direct Sales
+1502,2025-06-04,15,229,3435,Asia,Direct Sales
+1503,2025-11-13,20,229,4580,Asia,Direct Sales
+1504,2025-07-20,10,179,1790,North America,Event Booth
+1505,2025-01-22,14,179,2506,Asia,Online Store
+1506,2025-05-21,4,149,596,Europe,Event Booth
+1507,2025-03-17,15,199,2985,Asia,Direct Sales
+1508,2025-03-27,7,179,1253,Asia,Event Booth
+1509,2025-07-16,12,149,1788,North America,Direct Sales
+1510,2025-09-10,7,149,1043,North America,Online Store
+1511,2025-05-01,19,199,3781,Europe,Retail Partner
+1512,2025-07-18,19,149,2831,Asia,Online Store
+1513,2025-05-14,7,199,1393,Europe,Retail Partner
+1514,2025-11-02,12,149,1788,Africa,Direct Sales
+1515,2025-01-30,11,199,2189,South America,Direct Sales
+1516,2025-10-15,9,199,1791,Asia,Retail Partner
+1517,2025-06-26,10,179,1790,North America,Direct Sales
+1518,2025-02-25,10,179,1790,Asia,Direct Sales
+1519,2025-11-25,11,229,2519,Asia,Event Booth
+1520,2025-06-05,12,179,2148,Asia,Direct Sales
+1521,2025-03-08,20,149,2980,Asia,Online Store
+1522,2025-03-05,18,229,4122,South America,Event Booth
+1523,2025-04-16,19,199,3781,Europe,Retail Partner
+1524,2025-12-04,15,179,2685,Asia,Direct Sales
+1525,2025-07-26,4,179,716,Europe,Event Booth
+1526,2025-09-27,8,199,1592,Africa,Online Store
+1527,2025-12-08,17,149,2533,Europe,Event Booth
+1528,2025-11-29,1,149,149,South America,Direct Sales
+1529,2025-07-01,14,179,2506,Europe,Retail Partner
+1530,2025-07-05,6,199,1194,Asia,Event Booth
+1531,2025-06-17,13,179,2327,Europe,Event Booth
+1532,2025-10-25,18,229,4122,Europe,Retail Partner
+1533,2025-07-14,11,179,1969,Europe,Direct Sales
+1534,2025-09-24,3,199,597,Asia,Direct Sales
+1535,2025-03-28,6,179,1074,North America,Retail Partner
+1536,2025-02-18,16,199,3184,South America,Direct Sales
+1537,2025-06-01,2,179,358,North America,Retail Partner
+1538,2025-10-18,1,229,229,North America,Online Store
+1539,2025-12-08,19,149,2831,Asia,Event Booth
+1540,2025-06-30,14,179,2506,South America,Direct Sales
+1541,2025-02-10,18,199,3582,South America,Retail Partner
+1542,2025-04-17,17,199,3383,North America,Direct Sales
+1543,2025-08-14,17,229,3893,Europe,Direct Sales
+1544,2025-06-13,9,229,2061,Africa,Event Booth
+1545,2025-03-20,16,149,2384,Africa,Online Store
+1546,2025-10-15,18,149,2682,Africa,Direct Sales
+1547,2025-05-10,2,199,398,Asia,Direct Sales
+1548,2025-08-13,12,149,1788,North America,Retail Partner
+1549,2025-03-16,16,149,2384,South America,Event Booth
+1550,2025-11-20,20,229,4580,Africa,Direct Sales
+1551,2025-05-07,5,149,745,South America,Event Booth
+1552,2025-12-20,11,179,1969,Europe,Event Booth
+1553,2025-07-07,18,199,3582,Africa,Online Store
+1554,2025-07-15,4,149,596,Europe,Event Booth
+1555,2025-07-16,20,179,3580,South America,Retail Partner
+1556,2025-06-26,6,179,1074,Asia,Event Booth
+1557,2025-02-13,13,199,2587,South America,Retail Partner
+1558,2025-12-09,3,149,447,South America,Online Store
+1559,2025-05-08,10,149,1490,Europe,Event Booth
+1560,2025-07-20,6,229,1374,Africa,Retail Partner
+1561,2025-09-01,15,229,3435,North America,Event Booth
+1562,2025-10-17,2,229,458,Africa,Online Store
+1563,2025-05-17,9,199,1791,South America,Event Booth
+1564,2025-01-12,15,179,2685,Africa,Online Store
+1565,2025-09-28,19,179,3401,South America,Direct Sales
+1566,2025-10-13,8,229,1832,South America,Direct Sales
+1567,2025-11-16,1,149,149,Asia,Event Booth
+1568,2025-02-15,6,149,894,Europe,Online Store
+1569,2025-03-25,14,149,2086,North America,Retail Partner
+1570,2025-12-28,20,149,2980,South America,Event Booth
+1571,2025-06-07,8,179,1432,Asia,Event Booth
+1572,2025-07-01,7,229,1603,Africa,Event Booth
+1573,2025-11-11,17,229,3893,Africa,Online Store
+1574,2025-03-21,7,229,1603,Europe,Event Booth
+1575,2025-10-13,19,179,3401,North America,Retail Partner
+1576,2025-04-21,11,229,2519,North America,Retail Partner
+1577,2025-06-17,2,179,358,Europe,Online Store
+1578,2025-02-12,1,199,199,South America,Online Store
+1579,2025-10-14,20,199,3980,Africa,Direct Sales
+1580,2025-03-21,6,179,1074,South America,Event Booth
+1581,2025-06-23,19,179,3401,Africa,Online Store
+1582,2025-12-08,5,199,995,Europe,Event Booth
+1583,2025-09-21,10,149,1490,North America,Event Booth
+1584,2025-07-24,9,199,1791,North America,Retail Partner
+1585,2025-01-13,17,229,3893,Asia,Direct Sales
+1586,2025-03-31,15,149,2235,North America,Online Store
+1587,2025-03-19,15,149,2235,Africa,Online Store
+1588,2025-04-23,9,199,1791,Africa,Direct Sales
+1589,2025-09-21,17,149,2533,Europe,Retail Partner
+1590,2025-08-26,1,149,149,Asia,Retail Partner
+1591,2025-09-03,17,179,3043,South America,Event Booth
+1592,2025-05-19,5,149,745,Africa,Retail Partner
+1593,2025-05-20,17,229,3893,South America,Event Booth
+1594,2025-10-18,20,149,2980,Europe,Online Store
+1595,2025-06-22,13,179,2327,Africa,Online Store
+1596,2025-09-29,11,149,1639,Europe,Online Store
+1597,2025-05-02,9,149,1341,North America,Event Booth
+1598,2025-06-10,15,149,2235,Europe,Direct Sales
+1599,2025-03-11,3,149,447,Africa,Online Store
+1600,2025-03-15,6,199,1194,Africa,Event Booth
+1601,2025-04-20,3,179,537,Europe,Event Booth
+1602,2025-06-23,8,179,1432,North America,Retail Partner
+1603,2025-12-19,17,149,2533,North America,Event Booth
+1604,2025-05-29,8,179,1432,North America,Online Store
+1605,2025-05-05,6,149,894,North America,Retail Partner
+1606,2025-06-17,1,229,229,Africa,Direct Sales
+1607,2025-06-09,18,149,2682,Africa,Event Booth
+1608,2025-07-15,10,229,2290,Europe,Direct Sales
+1609,2025-05-14,5,229,1145,Asia,Direct Sales
+1610,2025-03-17,16,229,3664,South America,Event Booth
+1611,2025-03-01,9,199,1791,North America,Direct Sales
+1612,2025-09-23,2,179,358,Asia,Online Store
+1613,2025-07-31,12,229,2748,North America,Online Store
+1614,2025-05-11,16,179,2864,North America,Direct Sales
+1615,2025-11-24,13,199,2587,Europe,Retail Partner
+1616,2025-08-28,9,199,1791,Asia,Direct Sales
+1617,2025-08-06,9,199,1791,North America,Direct Sales
+1618,2025-01-29,17,179,3043,North America,Direct Sales
+1619,2025-10-30,14,199,2786,Asia,Event Booth
+1620,2025-05-03,8,229,1832,South America,Online Store
+1621,2025-06-06,19,179,3401,South America,Retail Partner
+1622,2025-01-04,17,179,3043,Europe,Event Booth
+1623,2025-07-14,4,199,796,Europe,Online Store
+1624,2025-04-21,18,229,4122,Europe,Retail Partner
+1625,2025-01-20,7,199,1393,Europe,Direct Sales
+1626,2025-05-21,12,149,1788,Africa,Event Booth
+1627,2025-12-05,8,199,1592,Europe,Online Store
+1628,2025-06-06,8,149,1192,Asia,Online Store
+1629,2025-03-15,2,229,458,South America,Event Booth
+1630,2025-07-17,1,199,199,North America,Retail Partner
+1631,2025-03-29,17,149,2533,North America,Retail Partner
+1632,2025-04-30,2,229,458,North America,Event Booth
+1633,2025-10-14,4,149,596,South America,Event Booth
+1634,2025-09-10,6,149,894,Africa,Event Booth
+1635,2025-01-09,4,199,796,South America,Retail Partner
+1636,2025-06-03,9,149,1341,South America,Online Store
+1637,2025-08-03,16,229,3664,Africa,Online Store
+1638,2025-09-22,9,199,1791,Europe,Online Store
+1639,2025-12-24,15,149,2235,Europe,Retail Partner
+1640,2025-10-24,1,229,229,Europe,Online Store
+1641,2025-04-10,18,149,2682,South America,Direct Sales
+1642,2025-05-12,15,149,2235,Asia,Event Booth
+1643,2025-05-21,4,229,916,Africa,Retail Partner
+1644,2025-05-01,14,229,3206,Asia,Online Store
+1645,2025-03-22,19,179,3401,South America,Retail Partner
+1646,2025-04-07,5,229,1145,South America,Online Store
+1647,2025-12-20,12,199,2388,South America,Direct Sales
+1648,2025-09-11,16,179,2864,Europe,Online Store
+1649,2025-09-15,2,149,298,Africa,Online Store
+1650,2025-11-26,3,199,597,North America,Event Booth
+1651,2025-01-11,13,229,2977,Asia,Online Store
+1652,2025-02-15,18,149,2682,South America,Direct Sales
+1653,2025-05-30,7,229,1603,Europe,Direct Sales
+1654,2025-07-15,7,229,1603,Europe,Retail Partner
+1655,2025-06-04,4,229,916,Europe,Retail Partner
+1656,2025-06-06,12,199,2388,Africa,Online Store
+1657,2025-10-27,4,229,916,Asia,Retail Partner
+1658,2025-03-23,8,199,1592,Asia,Retail Partner
+1659,2025-08-02,5,179,895,Europe,Retail Partner
+1660,2025-09-11,18,229,4122,Europe,Retail Partner
+1661,2025-01-21,17,179,3043,Europe,Retail Partner
+1662,2025-10-24,14,199,2786,Asia,Event Booth
+1663,2025-10-30,3,149,447,Africa,Retail Partner
+1664,2025-10-03,18,179,3222,Europe,Online Store
+1665,2025-07-09,15,179,2685,North America,Event Booth
+1666,2025-03-22,7,149,1043,South America,Retail Partner
+1667,2025-11-24,4,229,916,Europe,Event Booth
+1668,2025-01-09,17,199,3383,North America,Retail Partner
+1669,2025-08-17,14,149,2086,Africa,Event Booth
+1670,2025-11-04,3,179,537,Europe,Direct Sales
+1671,2025-07-29,18,229,4122,Asia,Event Booth
+1672,2025-04-16,1,179,179,Africa,Direct Sales
+1673,2025-12-05,8,149,1192,North America,Online Store
+1674,2025-12-21,6,199,1194,North America,Event Booth
+1675,2025-12-09,12,229,2748,North America,Online Store
+1676,2025-10-20,7,199,1393,Europe,Retail Partner
+1677,2025-03-26,2,229,458,Europe,Direct Sales
+1678,2025-04-30,17,179,3043,South America,Online Store
+1679,2025-04-21,20,179,3580,South America,Online Store
+1680,2025-10-14,5,179,895,South America,Online Store
+1681,2025-01-17,1,179,179,Africa,Direct Sales
+1682,2025-02-16,15,179,2685,Europe,Online Store
+1683,2025-04-09,4,199,796,Europe,Online Store
+1684,2025-04-24,3,179,537,Asia,Online Store
+1685,2025-12-12,14,149,2086,Asia,Online Store
+1686,2025-02-07,18,179,3222,Asia,Online Store
+1687,2025-12-03,4,229,916,South America,Online Store
+1688,2025-12-27,6,149,894,Asia,Direct Sales
+1689,2025-02-15,13,229,2977,Africa,Retail Partner
+1690,2025-06-15,11,229,2519,Africa,Online Store
+1691,2025-08-12,17,199,3383,South America,Online Store
+1692,2025-12-29,1,199,199,Asia,Direct Sales
+1693,2025-12-16,2,199,398,South America,Retail Partner
+1694,2025-09-19,2,199,398,North America,Event Booth
+1695,2025-04-16,11,199,2189,Asia,Online Store
+1696,2025-01-11,14,179,2506,Europe,Event Booth
+1697,2025-01-11,6,229,1374,Africa,Direct Sales
+1698,2025-01-07,6,199,1194,Asia,Event Booth
+1699,2025-04-22,6,179,1074,South America,Online Store
+1700,2025-06-03,13,149,1937,Africa,Direct Sales
+1701,2025-04-26,13,179,2327,Africa,Event Booth
+1702,2025-11-16,5,229,1145,Africa,Online Store
+1703,2025-04-11,14,179,2506,Africa,Direct Sales
+1704,2025-04-11,12,199,2388,Asia,Direct Sales
+1705,2025-07-04,9,229,2061,Africa,Event Booth
+1706,2025-07-21,4,149,596,Africa,Event Booth
+1707,2025-02-27,13,199,2587,North America,Online Store
+1708,2025-01-08,14,179,2506,South America,Event Booth
+1709,2025-12-24,16,199,3184,Africa,Online Store
+1710,2025-06-22,1,149,149,Africa,Retail Partner
+1711,2025-03-31,13,149,1937,Africa,Event Booth
+1712,2025-02-16,8,149,1192,Europe,Direct Sales
+1713,2025-12-04,1,229,229,Asia,Direct Sales
+1714,2025-05-24,17,149,2533,North America,Online Store
+1715,2025-11-09,5,179,895,Africa,Direct Sales
+1716,2025-01-26,17,179,3043,North America,Retail Partner
+1717,2025-06-12,11,179,1969,South America,Direct Sales
+1718,2025-05-26,19,179,3401,Africa,Online Store
+1719,2025-01-16,9,179,1611,Asia,Event Booth
+1720,2025-11-15,19,149,2831,Europe,Event Booth
+1721,2025-07-30,9,199,1791,South America,Direct Sales
+1722,2025-05-07,16,149,2384,South America,Event Booth
+1723,2025-11-24,19,229,4351,Europe,Direct Sales
+1724,2025-04-18,18,179,3222,Asia,Online Store
+1725,2025-11-05,17,229,3893,North America,Online Store
+1726,2025-08-18,18,229,4122,Europe,Online Store
+1727,2025-06-30,15,229,3435,Asia,Retail Partner
+1728,2025-11-03,2,229,458,Africa,Online Store
+1729,2025-10-08,16,199,3184,Asia,Online Store
+1730,2025-09-09,15,199,2985,North America,Event Booth
+1731,2025-08-12,9,149,1341,North America,Direct Sales
+1732,2025-11-04,7,179,1253,Asia,Retail Partner
+1733,2025-01-25,15,149,2235,South America,Online Store
+1734,2025-08-11,15,149,2235,North America,Retail Partner
+1735,2025-05-03,9,199,1791,Africa,Online Store
+1736,2025-05-08,17,199,3383,Africa,Retail Partner
+1737,2025-09-28,4,179,716,Europe,Retail Partner
+1738,2025-09-26,1,179,179,Asia,Event Booth
+1739,2025-03-13,4,199,796,Europe,Event Booth
+1740,2025-04-11,12,179,2148,Europe,Direct Sales
+1741,2025-04-02,1,179,179,Europe,Event Booth
+1742,2025-04-19,9,179,1611,South America,Event Booth
+1743,2025-09-10,9,179,1611,South America,Online Store
+1744,2025-12-25,19,179,3401,Africa,Online Store
+1745,2025-12-22,20,179,3580,Asia,Direct Sales
+1746,2025-03-30,7,179,1253,Africa,Event Booth
+1747,2025-05-07,6,149,894,South America,Event Booth
+1748,2025-06-04,9,149,1341,Africa,Retail Partner
+1749,2025-01-19,20,149,2980,Asia,Direct Sales
+1750,2025-05-25,7,179,1253,Asia,Direct Sales
+1751,2025-06-08,6,149,894,South America,Online Store
+1752,2025-04-15,8,179,1432,Africa,Online Store
+1753,2025-03-01,18,199,3582,Africa,Event Booth
+1754,2025-12-06,13,199,2587,South America,Event Booth
+1755,2025-08-09,18,229,4122,Europe,Event Booth
+1756,2025-01-04,1,149,149,Asia,Retail Partner
+1757,2025-02-25,8,199,1592,Africa,Event Booth
+1758,2025-04-03,8,229,1832,North America,Direct Sales
+1759,2025-11-24,9,179,1611,Africa,Retail Partner
+1760,2025-05-04,12,199,2388,Asia,Online Store
+1761,2025-12-22,14,199,2786,Asia,Online Store
+1762,2025-11-14,19,179,3401,North America,Retail Partner
+1763,2025-01-04,11,179,1969,Africa,Retail Partner
+1764,2025-11-03,14,149,2086,Europe,Event Booth
+1765,2025-07-19,2,199,398,Europe,Direct Sales
+1766,2025-04-22,7,229,1603,Africa,Direct Sales
+1767,2025-05-28,19,229,4351,Africa,Retail Partner
+1768,2025-04-13,15,229,3435,North America,Retail Partner
+1769,2025-10-23,7,229,1603,Africa,Direct Sales
+1770,2025-04-22,20,179,3580,Africa,Online Store
+1771,2025-09-19,14,229,3206,Europe,Online Store
+1772,2025-04-26,18,149,2682,North America,Online Store
+1773,2025-04-12,15,229,3435,Africa,Online Store
+1774,2025-04-26,9,199,1791,Africa,Retail Partner
+1775,2025-09-03,12,229,2748,South America,Direct Sales
+1776,2025-09-21,15,199,2985,South America,Retail Partner
+1777,2025-09-04,3,149,447,South America,Retail Partner
+1778,2025-05-27,17,229,3893,Asia,Online Store
+1779,2025-04-09,7,199,1393,South America,Retail Partner
+1780,2025-06-27,14,199,2786,Europe,Online Store
+1781,2025-02-28,13,199,2587,North America,Event Booth
+1782,2025-05-14,7,199,1393,Africa,Online Store
+1783,2025-03-17,16,229,3664,Asia,Retail Partner
+1784,2025-05-18,19,199,3781,Africa,Retail Partner
+1785,2025-06-04,19,199,3781,North America,Retail Partner
+1786,2025-12-13,1,199,199,Europe,Retail Partner
+1787,2025-09-26,3,199,597,Europe,Event Booth
+1788,2025-05-27,7,179,1253,Asia,Event Booth
+1789,2025-12-05,16,179,2864,North America,Retail Partner
+1790,2025-03-16,15,229,3435,Europe,Online Store
+1791,2025-07-06,4,229,916,North America,Event Booth
+1792,2025-11-30,5,179,895,North America,Event Booth
+1793,2025-05-08,19,179,3401,Africa,Retail Partner
+1794,2025-12-09,12,179,2148,North America,Direct Sales
+1795,2025-08-04,7,149,1043,Africa,Event Booth
+1796,2025-05-04,18,199,3582,South America,Event Booth
+1797,2025-06-16,10,229,2290,South America,Retail Partner
+1798,2025-07-20,13,179,2327,Asia,Retail Partner
+1799,2025-03-06,6,199,1194,Europe,Event Booth
+1800,2025-09-25,8,179,1432,South America,Online Store
+1801,2025-11-22,11,199,2189,Europe,Online Store
+1802,2025-02-16,11,229,2519,Europe,Event Booth
+1803,2025-12-05,6,199,1194,Europe,Retail Partner
+1804,2025-10-10,11,199,2189,Europe,Direct Sales
+1805,2025-10-03,7,179,1253,Africa,Online Store
+1806,2025-11-15,10,199,1990,Europe,Retail Partner
+1807,2025-06-16,19,179,3401,Asia,Retail Partner
+1808,2025-05-07,11,149,1639,Europe,Retail Partner
+1809,2025-11-29,8,199,1592,Europe,Retail Partner
+1810,2025-11-11,13,179,2327,North America,Online Store
+1811,2025-05-18,13,149,1937,South America,Event Booth
+1812,2025-10-29,6,149,894,North America,Direct Sales
+1813,2025-04-20,19,199,3781,Asia,Direct Sales
+1814,2025-03-20,7,149,1043,North America,Direct Sales
+1815,2025-07-28,2,149,298,South America,Online Store
+1816,2025-07-02,2,229,458,Asia,Online Store
+1817,2025-01-20,11,149,1639,North America,Direct Sales
+1818,2025-08-10,16,179,2864,Europe,Direct Sales
+1819,2025-02-16,2,179,358,Africa,Online Store
+1820,2025-12-22,7,149,1043,North America,Event Booth
+1821,2025-08-16,10,199,1990,South America,Online Store
+1822,2025-04-04,16,179,2864,South America,Event Booth
+1823,2025-06-27,18,149,2682,Africa,Direct Sales
+1824,2025-02-14,6,229,1374,Africa,Retail Partner
+1825,2025-05-23,12,229,2748,South America,Direct Sales
+1826,2025-07-12,14,199,2786,Africa,Event Booth
+1827,2025-12-04,12,229,2748,Africa,Retail Partner
+1828,2025-12-29,14,229,3206,Asia,Retail Partner
+1829,2025-04-23,8,149,1192,Europe,Direct Sales
+1830,2025-04-12,2,149,298,Africa,Direct Sales
+1831,2025-12-14,17,229,3893,North America,Direct Sales
+1832,2025-03-27,9,149,1341,Europe,Direct Sales
+1833,2025-07-23,1,179,179,Europe,Online Store
+1834,2025-02-08,16,149,2384,Asia,Direct Sales
+1835,2025-01-15,13,179,2327,North America,Event Booth
+1836,2025-03-29,13,199,2587,North America,Event Booth
+1837,2025-11-06,9,179,1611,Europe,Event Booth
+1838,2025-06-05,3,229,687,Asia,Retail Partner
+1839,2025-04-21,18,179,3222,South America,Retail Partner
+1840,2025-07-12,3,229,687,North America,Direct Sales
+1841,2025-11-15,9,179,1611,Asia,Event Booth
+1842,2025-11-30,14,229,3206,North America,Direct Sales
+1843,2025-11-29,12,199,2388,Europe,Retail Partner
+1844,2025-02-17,15,229,3435,Asia,Direct Sales
+1845,2025-07-04,4,229,916,Africa,Direct Sales
+1846,2025-09-21,7,199,1393,Europe,Retail Partner
+1847,2025-08-22,20,149,2980,Asia,Event Booth
+1848,2025-09-10,7,199,1393,Europe,Direct Sales
+1849,2025-03-29,17,149,2533,South America,Direct Sales
+1850,2025-09-11,18,149,2682,South America,Online Store
+1851,2025-07-26,10,199,1990,Asia,Retail Partner
+1852,2025-10-02,1,179,179,North America,Direct Sales
+1853,2025-01-21,6,199,1194,Asia,Retail Partner
+1854,2025-11-04,7,149,1043,Europe,Event Booth
+1855,2025-08-08,5,179,895,South America,Online Store
+1856,2025-09-25,10,199,1990,Africa,Online Store
+1857,2025-04-04,5,199,995,Africa,Event Booth
+1858,2025-12-24,13,179,2327,North America,Direct Sales
+1859,2025-03-10,9,179,1611,Asia,Event Booth
+1860,2025-01-05,17,229,3893,Asia,Event Booth
+1861,2025-05-02,5,199,995,Asia,Retail Partner
+1862,2025-01-06,19,199,3781,Asia,Online Store
+1863,2025-03-22,20,149,2980,Asia,Online Store
+1864,2025-05-13,2,199,398,Africa,Event Booth
+1865,2025-02-20,7,179,1253,Europe,Direct Sales
+1866,2025-04-01,1,199,199,South America,Online Store
+1867,2025-07-14,5,179,895,Africa,Retail Partner
+1868,2025-02-04,7,179,1253,North America,Event Booth
+1869,2025-08-23,12,179,2148,North America,Direct Sales
+1870,2025-12-02,10,179,1790,South America,Retail Partner
+1871,2025-03-13,7,229,1603,Asia,Online Store
+1872,2025-04-10,8,199,1592,North America,Event Booth
+1873,2025-02-25,2,179,358,Africa,Event Booth
+1874,2025-04-03,11,229,2519,Europe,Online Store
+1875,2025-09-04,19,199,3781,North America,Event Booth
+1876,2025-04-08,18,179,3222,Africa,Retail Partner
+1877,2025-03-31,14,179,2506,Africa,Online Store
+1878,2025-02-17,10,229,2290,Africa,Retail Partner
+1879,2025-12-07,19,199,3781,Asia,Online Store
+1880,2025-11-22,10,179,1790,North America,Online Store
+1881,2025-05-30,20,199,3980,Africa,Direct Sales
+1882,2025-10-07,15,179,2685,Africa,Retail Partner
+1883,2025-09-07,15,229,3435,North America,Retail Partner
+1884,2025-03-29,7,179,1253,Africa,Direct Sales
+1885,2025-03-07,13,179,2327,North America,Online Store
+1886,2025-10-16,7,199,1393,North America,Online Store
+1887,2025-01-04,16,199,3184,North America,Retail Partner
+1888,2025-04-07,11,229,2519,Africa,Retail Partner
+1889,2025-05-23,19,229,4351,Asia,Direct Sales
+1890,2025-12-06,12,229,2748,Europe,Event Booth
+1891,2025-11-24,16,149,2384,South America,Retail Partner
+1892,2025-11-06,4,229,916,North America,Event Booth
+1893,2025-08-19,15,199,2985,Africa,Online Store
+1894,2025-09-23,4,199,796,North America,Retail Partner
+1895,2025-07-23,19,179,3401,Europe,Direct Sales
+1896,2025-07-26,16,149,2384,Asia,Online Store
+1897,2025-12-29,8,149,1192,Europe,Direct Sales
+1898,2025-12-23,13,199,2587,Europe,Direct Sales
+1899,2025-06-24,6,199,1194,Africa,Direct Sales
+1900,2025-04-11,13,149,1937,Africa,Online Store
+1901,2025-03-05,7,149,1043,South America,Event Booth
+1902,2025-12-26,15,199,2985,Asia,Retail Partner
+1903,2025-11-30,18,199,3582,South America,Direct Sales
+1904,2025-11-15,18,149,2682,Europe,Direct Sales
+1905,2025-09-28,18,149,2682,Europe,Event Booth
+1906,2025-07-31,2,229,458,Asia,Retail Partner
+1907,2025-11-30,2,149,298,Africa,Retail Partner
+1908,2025-09-25,20,229,4580,Asia,Direct Sales
+1909,2025-12-18,8,229,1832,Africa,Online Store
+1910,2025-10-14,16,229,3664,Europe,Event Booth
+1911,2025-12-17,3,229,687,North America,Direct Sales
+1912,2025-04-23,20,149,2980,South America,Retail Partner
+1913,2025-07-02,13,199,2587,Asia,Online Store
+1914,2025-02-13,19,179,3401,Africa,Online Store
+1915,2025-08-14,2,179,358,North America,Online Store
+1916,2025-04-26,13,199,2587,Africa,Retail Partner
+1917,2025-06-27,2,229,458,Africa,Online Store
+1918,2025-03-06,13,179,2327,Asia,Direct Sales
+1919,2025-06-25,11,199,2189,Europe,Online Store
+1920,2025-11-09,1,229,229,North America,Online Store
+1921,2025-06-12,18,179,3222,Africa,Event Booth
+1922,2025-02-07,15,229,3435,North America,Event Booth
+1923,2025-05-31,9,199,1791,Asia,Event Booth
+1924,2025-12-07,3,179,537,Europe,Direct Sales
+1925,2025-07-24,18,199,3582,Africa,Retail Partner
+1926,2025-08-14,18,229,4122,Africa,Online Store
+1927,2025-01-10,18,229,4122,Africa,Event Booth
+1928,2025-10-26,14,179,2506,North America,Direct Sales
+1929,2025-08-05,8,199,1592,Europe,Direct Sales
+1930,2025-07-08,18,199,3582,Africa,Direct Sales
+1931,2025-06-23,9,179,1611,Asia,Online Store
+1932,2025-10-26,6,179,1074,Asia,Event Booth
+1933,2025-06-01,16,229,3664,Europe,Retail Partner
+1934,2025-03-21,15,199,2985,North America,Event Booth
+1935,2025-06-19,7,179,1253,Europe,Retail Partner
+1936,2025-11-05,5,179,895,North America,Online Store
+1937,2025-11-18,19,199,3781,North America,Event Booth
+1938,2025-01-20,5,149,745,Europe,Online Store
+1939,2025-06-10,4,149,596,South America,Direct Sales
+1940,2025-01-20,5,229,1145,Africa,Online Store
+1941,2025-10-10,9,149,1341,North America,Event Booth
+1942,2025-12-27,2,149,298,Asia,Retail Partner
+1943,2025-05-12,18,199,3582,Asia,Retail Partner
+1944,2025-12-10,14,179,2506,Asia,Online Store
+1945,2025-04-24,7,179,1253,Africa,Direct Sales
+1946,2025-09-17,10,149,1490,Asia,Direct Sales
+1947,2025-06-21,7,229,1603,Asia,Retail Partner
+1948,2025-03-22,5,149,745,North America,Retail Partner
+1949,2025-07-03,18,229,4122,North America,Event Booth
+1950,2025-07-01,10,199,1990,Asia,Direct Sales
+1951,2025-05-16,6,149,894,North America,Online Store
+1952,2025-07-13,17,229,3893,Asia,Event Booth
+1953,2025-02-08,10,229,2290,Europe,Direct Sales
+1954,2025-12-07,12,149,1788,South America,Direct Sales
+1955,2025-11-11,16,229,3664,South America,Event Booth
+1956,2025-03-04,11,149,1639,Europe,Retail Partner
+1957,2025-10-28,12,179,2148,North America,Online Store
+1958,2025-10-02,12,229,2748,South America,Online Store
+1959,2025-11-23,7,149,1043,South America,Event Booth
+1960,2025-07-10,4,149,596,South America,Event Booth
+1961,2025-03-10,8,179,1432,Europe,Direct Sales
+1962,2025-12-11,20,229,4580,South America,Event Booth
+1963,2025-08-07,9,199,1791,South America,Online Store
+1964,2025-04-21,16,149,2384,Africa,Retail Partner
+1965,2025-07-12,8,149,1192,Africa,Direct Sales
+1966,2025-06-16,15,229,3435,North America,Direct Sales
+1967,2025-05-18,10,229,2290,Europe,Online Store
+1968,2025-07-31,3,199,597,Africa,Online Store
+1969,2025-03-16,6,229,1374,Africa,Retail Partner
+1970,2025-05-11,19,179,3401,North America,Retail Partner
+1971,2025-06-05,7,229,1603,South America,Event Booth
+1972,2025-08-14,8,199,1592,North America,Online Store
+1973,2025-07-19,2,149,298,Europe,Retail Partner
+1974,2025-02-16,11,229,2519,North America,Event Booth
+1975,2025-12-18,15,179,2685,Europe,Retail Partner
+1976,2025-10-03,17,229,3893,Asia,Event Booth
+1977,2025-12-10,15,149,2235,Africa,Online Store
+1978,2025-01-28,4,199,796,Africa,Direct Sales
+1979,2025-08-01,19,149,2831,Asia,Direct Sales
+1980,2025-12-17,7,229,1603,South America,Retail Partner
+1981,2025-09-24,17,179,3043,South America,Retail Partner
+1982,2025-08-31,15,179,2685,South America,Online Store
+1983,2025-09-18,4,229,916,Europe,Retail Partner
+1984,2025-10-04,14,229,3206,South America,Event Booth
+1985,2025-07-04,17,149,2533,South America,Retail Partner
+1986,2025-08-29,6,229,1374,Europe,Direct Sales
+1987,2025-12-06,20,149,2980,Europe,Retail Partner
+1988,2025-12-24,16,179,2864,South America,Retail Partner
+1989,2025-04-21,17,149,2533,Europe,Direct Sales
+1990,2025-09-25,10,229,2290,Africa,Direct Sales
+1991,2025-05-22,11,179,1969,Asia,Retail Partner
+1992,2025-11-20,6,179,1074,North America,Retail Partner
+1993,2025-11-06,14,149,2086,Asia,Online Store
+1994,2025-04-22,12,229,2748,Africa,Event Booth
+1995,2025-03-17,2,229,458,Asia,Retail Partner
+1996,2025-12-31,18,149,2682,Asia,Event Booth
+1997,2025-01-30,12,229,2748,Africa,Direct Sales
+1998,2025-01-14,3,149,447,Africa,Online Store
+1999,2025-09-15,10,179,1790,North America,Event Booth
+2000,2025-09-23,20,229,4580,Europe,Event Booth
